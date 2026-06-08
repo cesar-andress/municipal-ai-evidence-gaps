@@ -205,7 +205,8 @@ The initial corpus manifest registers **23 official municipal source URLs** acro
 **Corpus quality audit status:** complete — pre-coding audit; see [`outputs/reports/corpus_quality_audit_v0_1.md`](outputs/reports/corpus_quality_audit_v0_1.md)  
 **Pilot coding status:** complete — protocol validation only; see [`outputs/reports/pilot_coding_protocol_test.md`](outputs/reports/pilot_coding_protocol_test.md) and [`outputs/reports/coding_protocol_refinement_log.md`](outputs/reports/coding_protocol_refinement_log.md)  
 **Coding protocol version:** v0.1.1 — see [`docs/coding_protocol.md`](docs/coding_protocol.md), [`docs/coding_decision_rules_v0_1_1.md`](docs/coding_decision_rules_v0_1_1.md), [`outputs/reports/protocol_change_log_v0_1_1.md`](outputs/reports/protocol_change_log_v0_1_1.md)  
-**Full corpus coding status:** complete — see [`outputs/reports/coding_summary_v0_1_1.md`](outputs/reports/coding_summary_v0_1_1.md) and [`outputs/reports/coding_decision_log_v0_1_1.md`](outputs/reports/coding_decision_log_v0_1_1.md)
+**Full corpus coding status:** complete — see [`outputs/reports/coding_summary_v0_1_1.md`](outputs/reports/coding_summary_v0_1_1.md) and [`outputs/reports/coding_decision_log_v0_1_1.md`](outputs/reports/coding_decision_log_v0_1_1.md)  
+**Pre-RQ distribution audit:** complete — recommendation: proceed to RQ analysis; see [`outputs/reports/coding_distribution_audit_v0_1_1.md`](outputs/reports/coding_distribution_audit_v0_1_1.md) and [`outputs/reports/pre_analysis_validity_check.md`](outputs/reports/pre_analysis_validity_check.md)
 
 ## Status
 
