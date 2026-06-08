@@ -62,6 +62,7 @@ municipal-ai-evidence-gaps/
 │   └── processed/
 │       ├── corpus_manifest_template.csv  # Manifest schema (v0.1)
 │       ├── corpus_manifest_v0_1.csv      # Initial corpus manifest (v0.1)
+│       ├── corpus_manifest_quality_flags_v0_1.csv  # Pre-coding quality flags
 │       ├── tier_a_verification.csv       # Tier A screening results
 │       ├── coding_template.csv           # Coding schema (v0.1)
 │       ├── corpus_manifest.csv           # Working manifest (gitignored)
@@ -187,6 +188,7 @@ See also [`CITATION.cff`](CITATION.cff).
 | Sampling strategy v0.1 | Complete |
 | Tier A verification | **Complete** (6 candidates screened; 6 eligible; no coding) |
 | Corpus collection | **Complete** (v0.1 manifest; 23 official sources; no scraping) |
+| Corpus quality audit | **Complete** (v0.1 pre-coding audit; 28 flags; no manifest changes) |
 | Coding (D1–D5) | **Not started** |
 | Results / findings | **None available** |
 
@@ -194,7 +196,8 @@ The initial corpus manifest registers **23 official municipal source URLs** acro
 
 **Sampling strategy status:** complete  
 **Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)  
-**Corpus inventory status:** complete — manifest only; see [`outputs/reports/corpus_inventory_report.md`](outputs/reports/corpus_inventory_report.md)
+**Corpus inventory status:** complete — manifest only; see [`outputs/reports/corpus_inventory_report.md`](outputs/reports/corpus_inventory_report.md)  
+**Corpus quality audit status:** complete — pre-coding audit; see [`outputs/reports/corpus_quality_audit_v0_1.md`](outputs/reports/corpus_quality_audit_v0_1.md)
 
 ## Status
 

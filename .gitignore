@@ -22,6 +22,7 @@ data/processed/*
 !data/processed/*_template.csv
 !data/processed/tier_a_verification.csv
 !data/processed/corpus_manifest_v0_1.csv
+!data/processed/corpus_manifest_quality_flags_v0_1.csv
 data/external/*
 !data/external/.gitkeep
 
@@ -34,6 +35,7 @@ outputs/reports/*
 !outputs/reports/.gitkeep
 !outputs/reports/tier_a_verification_report.md
 !outputs/reports/corpus_inventory_report.md
+!outputs/reports/corpus_quality_audit_v0_1.md
 
 # OS and editors
 .DS_Store
