@@ -36,6 +36,8 @@ outputs/reports/*
 !outputs/reports/tier_a_verification_report.md
 !outputs/reports/corpus_inventory_report.md
 !outputs/reports/corpus_quality_audit_v0_1.md
+!outputs/reports/pilot_coding_protocol_test.md
+!outputs/reports/coding_protocol_refinement_log.md
 
 # OS and editors
 .DS_Store

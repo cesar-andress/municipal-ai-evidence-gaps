@@ -189,7 +189,8 @@ See also [`CITATION.cff`](CITATION.cff).
 | Tier A verification | **Complete** (6 candidates screened; 6 eligible; no coding) |
 | Corpus collection | **Complete** (v0.1 manifest; 23 official sources; no scraping) |
 | Corpus quality audit | **Complete** (v0.1 pre-coding audit; 28 flags; no manifest changes) |
-| Coding (D1–D5) | **Not started** |
+| Pilot coding | **Complete** (3-document protocol test; minor revision recommended) |
+| Coding (D1–D5) | **Not started** (full corpus) |
 | Results / findings | **None available** |
 
 The initial corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. No document content has been scraped. No D1–D5 coding or evidence labels have been applied.
@@ -197,11 +198,12 @@ The initial corpus manifest registers **23 official municipal source URLs** acro
 **Sampling strategy status:** complete  
 **Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)  
 **Corpus inventory status:** complete — manifest only; see [`outputs/reports/corpus_inventory_report.md`](outputs/reports/corpus_inventory_report.md)  
-**Corpus quality audit status:** complete — pre-coding audit; see [`outputs/reports/corpus_quality_audit_v0_1.md`](outputs/reports/corpus_quality_audit_v0_1.md)
+**Corpus quality audit status:** complete — pre-coding audit; see [`outputs/reports/corpus_quality_audit_v0_1.md`](outputs/reports/corpus_quality_audit_v0_1.md)  
+**Pilot coding status:** complete — protocol validation only; see [`outputs/reports/pilot_coding_protocol_test.md`](outputs/reports/pilot_coding_protocol_test.md) and [`outputs/reports/coding_protocol_refinement_log.md`](outputs/reports/coding_protocol_refinement_log.md)
 
 ## Status
 
-**v0.1 research design, protocol, and initial corpus manifest complete.** Corpus manifest v0.1 lists official municipal source metadata only. D1–D5 coding has not started. No scraped content, evidence labels, or results are included.
+**v0.1 research design, protocol, initial corpus manifest, and pilot coding test complete.** Pilot tested the coding framework on three sources (protocol validation only). Full-corpus D1–D5 coding has not started. No paper findings or municipal comparisons are included.
 
 ## License
 
