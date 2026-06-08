@@ -34,6 +34,8 @@ Research design v0.1: [`docs/research_design_v0_1.md`](docs/research_design_v0_1
 Study protocol v0.1: [`docs/study_protocol_v0_1.md`](docs/study_protocol_v0_1.md)  
 Conceptual model: [`docs/conceptual_model.md`](docs/conceptual_model.md)  
 Journal positioning: [`docs/journal_positioning.md`](docs/journal_positioning.md)  
+Manuscript blueprint: [`docs/paper_blueprint.md`](docs/paper_blueprint.md)  
+GIQ storyline: [`docs/giq_storyline.md`](docs/giq_storyline.md)  
 Coding protocol: [`docs/coding_protocol.md`](docs/coding_protocol.md)
 
 ## Repository structure
@@ -53,6 +55,8 @@ municipal-ai-evidence-gaps/
 │   ├── study_protocol_v0_1.md            # Operational study protocol
 │   ├── conceptual_model.md               # Theoretical model + diagram
 │   ├── journal_positioning.md            # Target journal analysis
+│   ├── paper_blueprint.md                # Full manuscript blueprint
+│   ├── giq_storyline.md                  # GIQ narrative arc
 │   ├── coding_protocol.md                # D1–D5 coding sheets
 │   ├── non_claims.md                     # Boundary register
 │   ├── methodology.md
@@ -157,6 +161,8 @@ See also [`CITATION.cff`](CITATION.cff).
 | Study protocol v0.1 | Complete |
 | Conceptual model | Complete |
 | Journal positioning (GIQ primary) | Complete |
+| Manuscript blueprint | Complete |
+| GIQ storyline | Complete |
 | Corpus collection | **Not started** |
 | Coding (D1–D5) | **Not started** |
 | Results / findings | **None available** |
