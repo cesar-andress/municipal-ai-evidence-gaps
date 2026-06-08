@@ -15,6 +15,16 @@ The study examines what public documents make observable and what programme-leve
 
 The artifact is designed for reproducible documentary coding, descriptive reporting, and **Zenodo** archival release alongside the GIQ manuscript.
 
+## Research questions
+
+**RQ1.** What governance evidence is publicly observable in municipal AI documentation?
+
+**RQ2.** Which governance dimensions are systematically under-observable?
+
+**RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
+
+*Discussion implication (not an empirical RQ):* What are the implications of these evidence gaps for independent governance assessment based on public documentation alone?
+
 ## Study boundaries
 
 This project is **observability analysis**, not benchmark validation or compliance auditing.

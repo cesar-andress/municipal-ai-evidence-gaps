@@ -67,7 +67,10 @@ Establish stakes, define the puzzle, state RQs and contributions, and orient the
 - Opening: municipal AI adoption and proliferation of public governance documentation
 - Puzzle: visibility of principles vs. thin programme-level evidence
 - Working proposition to investigate (not assert pre-empirically)
-- Three research questions (RQ1–RQ3)
+- Three research questions (verbatim):
+  - **RQ1.** What governance evidence is publicly observable in municipal AI documentation?
+  - **RQ2.** Which governance dimensions are systematically under-observable?
+  - **RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
 - Three contributions (observability concept; evidence-gap analysis; open protocol)
 - Roadmap paragraph
 - Boundary statement: observability analysis, public documents only
@@ -192,9 +195,9 @@ Provide reproducible, reviewer-auditable description of sample, document collect
 Answer RQ1–RQ3 with descriptive evidence from the coded corpus; present tables/figures showing observability and gap patterns.
 
 #### Expected content
-- **RQ1:** Distribution of evidence-status labels across dimensions and document types
-- **RQ2:** Dimensions with highest rates of under-observability
-- **RQ3:** Cross-municipal and cross-document-type patterns (descriptive, not ranked)
+- **RQ1.** What governance evidence is publicly observable in municipal AI documentation? — distribution of evidence-status labels across dimensions and document types
+- **RQ2.** Which governance dimensions are systematically under-observable? — dimensions with highest rates of `partial_or_indirect_signal` and `not_observable_publicly`
+- **RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types? — cross-municipal and cross-document-type profiles (descriptive, not ranked)
 - Exemplar quotes (short, redacted) illustrating each evidence-status label
 - Summary tables: dimension × evidence status; document type × dimension
 - Optional: commitment-heavy vs. artefact-rich document profiles
@@ -228,6 +231,7 @@ Interpret findings against theory; explain implications for government informati
 
 #### Expected content
 - Synthesis: transparency of commitments vs. programme-level evidence
+- **Discussion implication:** What are the implications of these evidence gaps for independent governance assessment based on public documentation alone?
 - Theoretical interpretation: accountability limitations, ceremonial compliance *as pattern*, administrative burden as context
 - Implications for government information professionals (what to publish, how to structure registers)
 - Implications for researchers and oversight bodies (limits of public-document assessment)

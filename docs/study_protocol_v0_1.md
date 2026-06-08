@@ -20,13 +20,27 @@ This is an **observability analysis**. It does not validate benchmarking instrum
 
 ## 2. Research questions
 
-**RQ1.** Which observability dimensions (D1–D5) appear as named artefacts, policy commitments, partial signals, or not at all in public municipal AI documentation?
+Three research questions organise the empirical work:
 
-**RQ2.** Where do public documents provide principles and commitments without corresponding programme-level evidence (e.g., ownership roles, oversight routines, lifecycle accountability)?
+**RQ1.** What governance evidence is publicly observable in municipal AI documentation?
 
-**RQ3.** How do observability patterns differ across document types (strategies, registers, transparency pages, procurement disclosures)?
+**RQ2.** Which governance dimensions are systematically under-observable?
 
-**RQ4.** What are the implications of these evidence gaps for independent governance assessment based on public documentation alone?
+**RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
+
+### Operational mapping
+
+| RQ | Coding focus |
+|----|--------------|
+| RQ1 | Evidence-status labels (`observable_named_artifact` through `not_observable_publicly`) across D1–D5 and document types |
+| RQ2 | Dimensions with highest rates of `partial_or_indirect_signal` and `not_observable_publicly` |
+| RQ3 | Cross-municipal and cross-document-type observability profiles (descriptive, not ranked) |
+
+### Discussion implication (not an empirical RQ)
+
+The following question is addressed interpretively in the **Discussion** section, not as a standalone empirical research question:
+
+> What are the implications of these evidence gaps for independent governance assessment based on public documentation alone?
 
 ---
 
@@ -223,3 +237,4 @@ No readiness scores, rankings, or compliance matrices will be published.
 | Version | Date | Change |
 |---------|------|--------|
 | 0.1 | 2026-06-08 | Initial study protocol; D1–D5 dimensions and four evidence-status labels |
+| 0.1.1 | 2026-06-08 | Harmonised three core RQs; former RQ4 moved to Discussion implication |

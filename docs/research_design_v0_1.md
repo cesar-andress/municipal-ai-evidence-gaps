@@ -24,23 +24,23 @@ The design is **descriptive and comparative**. It does not score readiness, rank
 
 Three research questions organise the empirical work:
 
-### RQ1 — Observable evidence
+**RQ1.** What governance evidence is publicly observable in municipal AI documentation?
 
-**What governance evidence is publicly observable in municipal AI documentation?**
+**RQ2.** Which governance dimensions are systematically under-observable?
 
-This question maps the presence of governance-relevant information across five observability dimensions (D1–D5) and four evidence-status labels. It asks what external reviewers can actually see—not what municipalities may do internally.
+**RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
 
-### RQ2 — Under-observable dimensions
+### Operational notes
 
-**Which governance dimensions are systematically under-observable?**
+- **RQ1** maps governance-relevant information across five observability dimensions (D1–D5) and four evidence-status labels. It asks what external reviewers can actually see—not what municipalities may do internally.
+- **RQ2** identifies dimensions where public documentation most often yields `partial_or_indirect_signal` or `not_observable_publicly` rather than `observable_named_artifact`. It foregrounds structural documentation deficits rather than municipal failure.
+- **RQ3** compares how observability profiles vary across municipalities and document types (strategies, registers, transparency pages, procurement disclosures). Comparison is **pattern-oriented**, not ordinal ranking.
 
-This question identifies dimensions where public documentation most often yields `partial_or_indirect_signal` or `not_observable_publicly` rather than `observable_named_artifact`. It foregrounds structural documentation deficits rather than municipal failure.
+### Discussion implication (not an empirical RQ)
 
-### RQ3 — Cross-municipal patterns
+The following question is addressed interpretively in the **Discussion** section, not as a standalone empirical research question:
 
-**What patterns of transparency and evidence gaps emerge across municipalities?**
-
-This question compares how observability profiles vary across municipalities and document types (strategies, registers, transparency pages, procurement disclosures). Comparison is **pattern-oriented**, not ordinal ranking.
+> What are the implications of these evidence gaps for independent governance assessment based on public documentation alone?
 
 ---
 
@@ -223,3 +223,4 @@ Full register: [`non_claims.md`](non_claims.md).
 | Version | Date | Change |
 |---------|------|--------|
 | 0.1 | 2026-06-08 | Initial publishable research design; three RQs and three contributions |
+| 0.1.1 | 2026-06-08 | Harmonised RQ wording; former RQ4 reframed as Discussion implication |

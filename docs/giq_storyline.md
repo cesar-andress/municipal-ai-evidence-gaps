@@ -114,9 +114,12 @@ The study conducts a **comparative documentary analysis** of European municipal 
 Researchers become external reviewers limited to the public record—mirroring the epistemic position of citizens, councillors, journalists, and scholars without administrative access.
 
 ### Empirical promise (post-collection)
-- RQ1: What evidence is observable?
-- RQ2: Which dimensions are systematically under-observable?
-- RQ3: What patterns emerge across municipalities and document types?
+
+**RQ1.** What governance evidence is publicly observable in municipal AI documentation?
+
+**RQ2.** Which governance dimensions are systematically under-observable?
+
+**RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
 
 ### What to avoid
 League tables. Readiness scores. "Best" and "worst" cities. Compliance matrices.
@@ -130,6 +133,8 @@ Present findings as **maps of observability**, not scorecards.
 
 ### Narrative beat
 If public documentation emphasises commitments over programme-level artefacts, **accountability through the public record** is structurally constrained—even when municipalities maintain internal governance routines not visible externally.
+
+**Discussion implication (not an empirical RQ):** What are the implications of these evidence gaps for independent governance assessment based on public documentation alone?
 
 ### Implications ladder
 
