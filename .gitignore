@@ -38,6 +38,7 @@ outputs/reports/*
 !outputs/reports/corpus_quality_audit_v0_1.md
 !outputs/reports/pilot_coding_protocol_test.md
 !outputs/reports/coding_protocol_refinement_log.md
+!outputs/reports/protocol_change_log_v0_1_1.md
 
 # OS and editors
 .DS_Store

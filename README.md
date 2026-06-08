@@ -50,7 +50,8 @@ GIQ storyline: [`docs/giq_storyline.md`](docs/giq_storyline.md)
 Sampling strategy: [`docs/municipal_sampling_strategy_v0_1.md`](docs/municipal_sampling_strategy_v0_1.md)  
 Tier A verification protocol: [`docs/tier_a_verification_protocol.md`](docs/tier_a_verification_protocol.md)  
 Sampling risks: [`docs/sampling_risks.md`](docs/sampling_risks.md)  
-Coding protocol: [`docs/coding_protocol.md`](docs/coding_protocol.md)
+Coding protocol: [`docs/coding_protocol.md`](docs/coding_protocol.md) (v0.1.1)  
+Coding decision rules: [`docs/coding_decision_rules_v0_1_1.md`](docs/coding_decision_rules_v0_1_1.md)
 
 ## Repository structure
 
@@ -79,7 +80,8 @@ municipal-ai-evidence-gaps/
 │   ├── sampling_risks.md                 # Bias register and mitigations
 │   ├── global_editorial_style_guide.md   # Canonical terminology and non-claims
 │   ├── editorial_consistency_audit.md    # Consistency audit log
-│   ├── coding_protocol.md                # D1–D5 coding sheets
+│   ├── coding_protocol.md                # D1–D5 coding sheets (v0.1.1)
+│   ├── coding_decision_rules_v0_1_1.md   # Decision trees and tie-breaks
 │   ├── non_claims.md                     # Boundary register
 │   ├── methodology.md
 │   ├── data_dictionary.md
@@ -189,7 +191,8 @@ See also [`CITATION.cff`](CITATION.cff).
 | Tier A verification | **Complete** (6 candidates screened; 6 eligible; no coding) |
 | Corpus collection | **Complete** (v0.1 manifest; 23 official sources; no scraping) |
 | Corpus quality audit | **Complete** (v0.1 pre-coding audit; 28 flags; no manifest changes) |
-| Pilot coding | **Complete** (3-document protocol test; minor revision recommended) |
+| Pilot coding | **Complete** (3-document protocol test) |
+| Coding protocol | **v0.1.1** (pilot refinements applied) |
 | Coding (D1–D5) | **Not started** (full corpus) |
 | Results / findings | **None available** |
 
@@ -199,11 +202,12 @@ The initial corpus manifest registers **23 official municipal source URLs** acro
 **Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)  
 **Corpus inventory status:** complete — manifest only; see [`outputs/reports/corpus_inventory_report.md`](outputs/reports/corpus_inventory_report.md)  
 **Corpus quality audit status:** complete — pre-coding audit; see [`outputs/reports/corpus_quality_audit_v0_1.md`](outputs/reports/corpus_quality_audit_v0_1.md)  
-**Pilot coding status:** complete — protocol validation only; see [`outputs/reports/pilot_coding_protocol_test.md`](outputs/reports/pilot_coding_protocol_test.md) and [`outputs/reports/coding_protocol_refinement_log.md`](outputs/reports/coding_protocol_refinement_log.md)
+**Pilot coding status:** complete — protocol validation only; see [`outputs/reports/pilot_coding_protocol_test.md`](outputs/reports/pilot_coding_protocol_test.md) and [`outputs/reports/coding_protocol_refinement_log.md`](outputs/reports/coding_protocol_refinement_log.md)  
+**Coding protocol version:** v0.1.1 — see [`docs/coding_protocol.md`](docs/coding_protocol.md), [`docs/coding_decision_rules_v0_1_1.md`](docs/coding_decision_rules_v0_1_1.md), [`outputs/reports/protocol_change_log_v0_1_1.md`](outputs/reports/protocol_change_log_v0_1_1.md)
 
 ## Status
 
-**v0.1 research design, protocol, initial corpus manifest, and pilot coding test complete.** Pilot tested the coding framework on three sources (protocol validation only). Full-corpus D1–D5 coding has not started. No paper findings or municipal comparisons are included.
+**v0.1 research design, corpus manifest, pilot coding test, and coding protocol v0.1.1 complete.** Protocol refinements address register coding units, document hierarchy, and evidence-status boundaries. Full-corpus D1–D5 coding has not started. No paper findings or municipal comparisons are included.
 
 ## License
 
