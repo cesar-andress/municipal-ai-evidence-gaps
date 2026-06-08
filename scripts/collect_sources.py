@@ -13,16 +13,16 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
-from evidence_gaps.io import SOURCE_MANIFEST, init_scaffold_files, read_csv_if_exists
+from evidence_gaps.io import CORPUS_MANIFEST, init_scaffold_files, read_csv_if_exists
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description="Initialise the municipal source manifest scaffold.")
+    parser = argparse.ArgumentParser(description="Initialise the municipal corpus manifest scaffold.")
     parser.add_argument(
         "--manifest",
         type=Path,
-        default=SOURCE_MANIFEST,
-        help="Path to source_manifest.csv",
+        default=CORPUS_MANIFEST,
+        help="Path to corpus_manifest.csv",
     )
     args = parser.parse_args()
 

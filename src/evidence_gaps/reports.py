@@ -1,4 +1,4 @@
-"""Report generation stubs for observability summaries."""
+"""Report generation for observability summaries (v0.1)."""
 
 from __future__ import annotations
 
@@ -9,27 +9,27 @@ import pandas as pd
 from evidence_gaps.io import OUTPUTS_REPORTS, ensure_parent
 
 
-def observability_summary(coded_corpus: pd.DataFrame) -> pd.DataFrame:
-    """Summarise observability counts by category.
+def observability_summary(coding_dataset: pd.DataFrame) -> pd.DataFrame:
+    """Summarise evidence-status counts by dimension.
 
     Returns an empty frame with expected columns when input is empty.
     """
-    columns = ["category", "observability", "count"]
-    if coded_corpus.empty:
+    columns = ["dimension", "evidence_status", "count"]
+    if coding_dataset.empty:
         return pd.DataFrame(columns=columns)
 
     summary = (
-        coded_corpus.groupby(["category", "observability"], dropna=False)
+        coding_dataset.groupby(["dimension", "evidence_status"], dropna=False)
         .size()
         .reset_index(name="count")
-        .sort_values(["category", "observability"])
+        .sort_values(["dimension", "evidence_status"])
     )
     return summary
 
 
-def write_summary_report(coded_corpus: pd.DataFrame, path: Path | None = None) -> Path:
-    """Write a category-level observability summary to CSV."""
+def write_summary_report(coding_dataset: pd.DataFrame, path: Path | None = None) -> Path:
+    """Write a dimension-level observability summary to CSV."""
     output = path or (OUTPUTS_REPORTS / "observability_summary.csv")
     ensure_parent(output)
-    observability_summary(coded_corpus).to_csv(output, index=False)
+    observability_summary(coding_dataset).to_csv(output, index=False)
     return output
