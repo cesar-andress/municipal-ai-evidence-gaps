@@ -64,6 +64,7 @@ municipal-ai-evidence-gaps/
 │       ├── corpus_manifest_template.csv  # Manifest schema (v0.1)
 │       ├── corpus_manifest_v0_1.csv      # Initial corpus manifest (v0.1)
 │       ├── corpus_manifest_quality_flags_v0_1.csv  # Pre-coding quality flags
+│       ├── coding_results_v0_1_1.csv       # Full-corpus D1–D5 coding (v0.1.1)
 │       ├── tier_a_verification.csv       # Tier A screening results
 │       ├── coding_template.csv           # Coding schema (v0.1)
 │       ├── corpus_manifest.csv           # Working manifest (gitignored)
@@ -193,21 +194,22 @@ See also [`CITATION.cff`](CITATION.cff).
 | Corpus quality audit | **Complete** (v0.1 pre-coding audit; 28 flags; no manifest changes) |
 | Pilot coding | **Complete** (3-document protocol test) |
 | Coding protocol | **v0.1.1** (pilot refinements applied) |
-| Coding (D1–D5) | **Not started** (full corpus) |
-| Results / findings | **None available** |
+| Full corpus coding | **Complete** (v0.1.1; 115 rows; 23 sources) |
+| Results / findings | **None available** (coded observations only) |
 
-The initial corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. No document content has been scraped. No D1–D5 coding or evidence labels have been applied.
+The initial corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. Full-corpus D1–D5 coding (v0.1.1) produced **115 coded observations** in [`data/processed/coding_results_v0_1_1.csv`](data/processed/coding_results_v0_1_1.csv). No paper findings or pattern analysis are included.
 
 **Sampling strategy status:** complete  
 **Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)  
 **Corpus inventory status:** complete — manifest only; see [`outputs/reports/corpus_inventory_report.md`](outputs/reports/corpus_inventory_report.md)  
 **Corpus quality audit status:** complete — pre-coding audit; see [`outputs/reports/corpus_quality_audit_v0_1.md`](outputs/reports/corpus_quality_audit_v0_1.md)  
 **Pilot coding status:** complete — protocol validation only; see [`outputs/reports/pilot_coding_protocol_test.md`](outputs/reports/pilot_coding_protocol_test.md) and [`outputs/reports/coding_protocol_refinement_log.md`](outputs/reports/coding_protocol_refinement_log.md)  
-**Coding protocol version:** v0.1.1 — see [`docs/coding_protocol.md`](docs/coding_protocol.md), [`docs/coding_decision_rules_v0_1_1.md`](docs/coding_decision_rules_v0_1_1.md), [`outputs/reports/protocol_change_log_v0_1_1.md`](outputs/reports/protocol_change_log_v0_1_1.md)
+**Coding protocol version:** v0.1.1 — see [`docs/coding_protocol.md`](docs/coding_protocol.md), [`docs/coding_decision_rules_v0_1_1.md`](docs/coding_decision_rules_v0_1_1.md), [`outputs/reports/protocol_change_log_v0_1_1.md`](outputs/reports/protocol_change_log_v0_1_1.md)  
+**Full corpus coding status:** complete — see [`outputs/reports/coding_summary_v0_1_1.md`](outputs/reports/coding_summary_v0_1_1.md) and [`outputs/reports/coding_decision_log_v0_1_1.md`](outputs/reports/coding_decision_log_v0_1_1.md)
 
 ## Status
 
-**v0.1 research design, corpus manifest, pilot coding test, and coding protocol v0.1.1 complete.** Protocol refinements address register coding units, document hierarchy, and evidence-status boundaries. Full-corpus D1–D5 coding has not started. No paper findings or municipal comparisons are included.
+**v0.1 research design, corpus manifest, pilot coding test, coding protocol v0.1.1, and full-corpus coding complete.** Coded observations only; no paper findings or municipal comparisons are included.
 
 ## License
 

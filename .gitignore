@@ -23,6 +23,7 @@ data/processed/*
 !data/processed/tier_a_verification.csv
 !data/processed/corpus_manifest_v0_1.csv
 !data/processed/corpus_manifest_quality_flags_v0_1.csv
+!data/processed/coding_results_v0_1_1.csv
 data/external/*
 !data/external/.gitkeep
 
@@ -39,6 +40,8 @@ outputs/reports/*
 !outputs/reports/pilot_coding_protocol_test.md
 !outputs/reports/coding_protocol_refinement_log.md
 !outputs/reports/protocol_change_log_v0_1_1.md
+!outputs/reports/coding_summary_v0_1_1.md
+!outputs/reports/coding_decision_log_v0_1_1.md
 
 # OS and editors
 .DS_Store
