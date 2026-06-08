@@ -47,6 +47,7 @@ Journal positioning: [`docs/journal_positioning.md`](docs/journal_positioning.md
 Manuscript blueprint: [`docs/paper_blueprint.md`](docs/paper_blueprint.md)  
 GIQ storyline: [`docs/giq_storyline.md`](docs/giq_storyline.md)  
 Sampling strategy: [`docs/municipal_sampling_strategy_v0_1.md`](docs/municipal_sampling_strategy_v0_1.md)  
+Tier A verification protocol: [`docs/tier_a_verification_protocol.md`](docs/tier_a_verification_protocol.md)  
 Sampling risks: [`docs/sampling_risks.md`](docs/sampling_risks.md)  
 Coding protocol: [`docs/coding_protocol.md`](docs/coding_protocol.md)
 
@@ -70,6 +71,7 @@ municipal-ai-evidence-gaps/
 │   ├── paper_blueprint.md                # Full manuscript blueprint
 │   ├── giq_storyline.md                  # GIQ narrative arc
 │   ├── municipal_sampling_strategy_v0_1.md  # Sampling frame (v0.1)
+│   ├── tier_a_verification_protocol.md   # Tier A screening protocol
 │   ├── sampling_risks.md                 # Bias register and mitigations
 │   ├── coding_protocol.md                # D1–D5 coding sheets
 │   ├── non_claims.md                     # Boundary register
@@ -178,13 +180,15 @@ See also [`CITATION.cff`](CITATION.cff).
 | Manuscript blueprint | Complete |
 | GIQ storyline | Complete |
 | Sampling strategy v0.1 | Complete |
+| Tier A verification | **Complete** (6 candidates screened; 6 eligible; no coding) |
 | Corpus collection | **Not started** |
 | Coding (D1–D5) | **Not started** |
 | Results / findings | **None available** |
 
 No municipal documents have been collected. No websites have been scraped. Candidate municipalities in the sampling strategy are **proposed frame placeholders** pending verification—not a coded corpus. The project remains at the **study design + sampling strategy** stage prior to empirical work.
 
-**Sampling strategy status:** complete
+**Sampling strategy status:** complete  
+**Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)
 
 ## Status
 

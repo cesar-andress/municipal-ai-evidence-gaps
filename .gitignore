@@ -20,6 +20,7 @@ data/interim/*
 data/processed/*
 !data/processed/.gitkeep
 !data/processed/*_template.csv
+!data/processed/tier_a_verification.csv
 data/external/*
 !data/external/.gitkeep
 
@@ -30,6 +31,7 @@ outputs/figures/*
 !outputs/figures/.gitkeep
 outputs/reports/*
 !outputs/reports/.gitkeep
+!outputs/reports/tier_a_verification_report.md
 
 # OS and editors
 .DS_Store
