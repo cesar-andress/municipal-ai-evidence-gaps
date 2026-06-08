@@ -8,16 +8,19 @@ The unit of analysis is the **public document** (or document bundle) made availa
 
 ## Analytic focus
 
-The study examines **observability** — what categories of governance-relevant information appear in public documentation — and **evidence gaps** — categories that are thin, absent, or inconsistently reported.
+The study examines **Public-Document Observability** — what categories of governance-relevant information appear in public documentation — and **evidence gaps** — categories that are thin, absent, or inconsistently reported.
 
 ## Non-goals
 
-This workflow explicitly does **not**:
+This workflow explicitly maintains the canonical non-claims:
 
-- produce municipal readiness scores
-- rank or league-table cities
-- infer legal compliance or non-compliance
-- access non-public administrative records
+- no readiness scoring
+- no municipal ranking
+- no legal compliance determination
+- no LocalGovBench validation
+- no inference of internal governance quality
+
+It also does not access non-public administrative records.
 
 ## Pipeline overview
 

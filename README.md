@@ -9,7 +9,7 @@ Public research artifact supporting:
 
 This repository supports a **comparative observability analysis** of public municipal AI governance documentation in Europe.
 
-The study examines what public documents make observable and what programme-level evidence remains unavailable for independent governance assessment. The working claim under investigation:
+The study examines what public documentation makes observable and what programme-level evidence remains unavailable for independent governance assessment. The working claim under investigation:
 
 > Public municipal AI documentation is often visible at the level of principles and commitments but thinner at the level of evidence needed for independent programme-level governance assessment.
 
@@ -27,19 +27,20 @@ The artifact is designed for reproducible documentary coding, descriptive report
 
 ## Study boundaries
 
-This project is **observability analysis**, not benchmark validation or compliance auditing.
+This project is **Public-Document Observability** analysis. Canonical non-claims: no readiness scoring; no municipal ranking; no legal compliance determination; no LocalGovBench validation; no inference of internal governance quality.
 
 | In scope | Out of scope |
 |----------|--------------|
 | Public municipal AI governance documents | Non-public or access-restricted records |
-| Five observability dimensions (D1–D5) | Municipal readiness scoring |
-| Four evidence-status labels | City rankings or league tables |
-| Descriptive evidence-gap patterns | LocalGovBench validation |
-| Zenodo-ready protocol and templates | AI Act compliance determinations |
+| Five observability dimensions (D1–D5) | Readiness scoring |
+| Four evidence-status labels | Municipal ranking |
+| Descriptive evidence gap patterns | LocalGovBench validation |
+| Zenodo-ready protocol and templates | Legal compliance determination |
 | | Personal data processing |
 | | Model performance evaluation |
 
 Full boundary register: [`docs/non_claims.md`](docs/non_claims.md)  
+Editorial style guide: [`docs/global_editorial_style_guide.md`](docs/global_editorial_style_guide.md)  
 Research design v0.1: [`docs/research_design_v0_1.md`](docs/research_design_v0_1.md)  
 Study protocol v0.1: [`docs/study_protocol_v0_1.md`](docs/study_protocol_v0_1.md)  
 Conceptual model: [`docs/conceptual_model.md`](docs/conceptual_model.md)  
@@ -73,6 +74,8 @@ municipal-ai-evidence-gaps/
 │   ├── municipal_sampling_strategy_v0_1.md  # Sampling frame (v0.1)
 │   ├── tier_a_verification_protocol.md   # Tier A screening protocol
 │   ├── sampling_risks.md                 # Bias register and mitigations
+│   ├── global_editorial_style_guide.md   # Canonical terminology and non-claims
+│   ├── editorial_consistency_audit.md    # Consistency audit log
 │   ├── coding_protocol.md                # D1–D5 coding sheets
 │   ├── non_claims.md                     # Boundary register
 │   ├── methodology.md
@@ -142,7 +145,7 @@ Zenodo tag **`v0.1.0`** will include:
 - Empty working scaffolds (no municipal data rows)
 - Documentation for methodology, ethics, and data dictionary
 
-**Not included in v0.1:** scraped corpora, coded results, rankings, readiness scores, or compliance findings.
+**Not included in v0.1:** scraped corpora, coded results, municipal ranking, readiness scoring, or legal compliance determination.
 
 ## Zenodo release plan
 

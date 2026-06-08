@@ -85,7 +85,7 @@ Public documents reflect **what municipalities choose to publish**, shaped by po
 The study observes **documentation practices**, not internal organisational reality. Thin public evidence does not prove thin internal practice.
 
 ### Mitigation
-- Core non-claim: observability ≠ internal quality ([`non_claims.md`](non_claims.md))
+- Core non-claim: Public-Document Observability permits no inference of internal governance quality ([`non_claims.md`](non_claims.md))
 - Evidence-status labels separate **commitments** from **named artefacts**
 - Conceptual framework distinguishes transparency from programme-level evidence
 - Reviewer attack map in [`paper_blueprint.md`](paper_blueprint.md)

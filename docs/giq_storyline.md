@@ -86,7 +86,7 @@ Introduce D1–D5 as the programme-level evidence domains the public record shou
 
 ---
 
-## Act IV — Evidence-gap concept
+## Act IV — Evidence gap concept
 
 ### Narrative beat
 The manuscript introduces **public-document observability** and **evidence gaps** as analytic constructs.
@@ -98,7 +98,7 @@ The manuscript introduces **public-document observability** and **evidence gaps*
 Shift the conversation from "is there a strategy/register?" to "what governance evidence does the public record structurally provide or withhold?"
 
 ### Boundary move (critical for GIQ)
-Evidence gaps are **accountability limitations for external reviewers**, not proof of internal failure, non-compliance, or low readiness.
+Evidence gaps are **accountability limitations** for external reviewers, not proof of internal failure, legal non-compliance, or readiness scoring.
 
 ### Drafting cue
 Deploy the conceptual model figure here. This act is the paper's **theoretical product**.
@@ -122,7 +122,7 @@ Researchers become external reviewers limited to the public record—mirroring t
 **RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
 
 ### What to avoid
-League tables. Readiness scores. "Best" and "worst" cities. Compliance matrices.
+Municipal ranking. Readiness scoring. "Best" and "worst" cities. Legal compliance determination matrices.
 
 ### Drafting cue
 Present findings as **maps of observability**, not scorecards.
@@ -171,7 +171,7 @@ Measured, non-punitive, forward-looking. The goal is stronger **government infor
 | Do | Don't |
 |----|-------|
 | Write for government information scholars | Write for ML or compliance engineers |
-| Use "observable", "public record", "programme-level evidence" | Use "maturity", "readiness score", "non-compliant" |
+| Use "observable evidence", "public documentation", "programme-level evidence" | Use "governance maturity", "readiness scoring", "legal compliance determination" |
 | Compare patterns descriptively | Rank municipalities |
 | Acknowledge administrative burden | Imply laziness or bad faith |
 | Tie claims to coded evidence | Speculate about internal practice |
@@ -181,7 +181,7 @@ Measured, non-punitive, forward-looking. The goal is stronger **government infor
 
 ## Elevator pitch (30 seconds)
 
-Municipalities publish AI strategies and registers to be transparent—but what governance evidence do those documents actually reveal? We introduce public-document observability, analyse European municipal AI documentation comparatively, and show where evidence gaps limit independent programme-level assessment. The paper advances GIQ's government information agenda without scoring cities or claiming compliance.
+Municipalities publish AI strategies and registers to be transparent—but what governance evidence do those documents actually reveal? We introduce public-document observability, analyse European municipal AI documentation comparatively, and show where evidence gaps limit independent programme-level assessment. The paper advances GIQ's government information agenda without municipal ranking, readiness scoring, or legal compliance determination.
 
 ---
 
@@ -191,7 +191,7 @@ Dear Editor,
 
 We submit a manuscript for *Government Information Quarterly* examining what programme-level governance evidence European municipal AI documentation makes publicly observable. As municipalities publish strategies, registers, and transparency pages, policymakers and researchers increasingly rely on public documents to assess AI governance. Yet government information scholarship suggests that transparency can foreground commitments while leaving programme-level evidence thin.
 
-Our study introduces **public-document observability** as an analytic construct and applies a comparative documentary protocol across five governance dimensions. We document patterned evidence gaps and explain their implications for accountability through the public record—without ranking municipalities, scoring readiness, or claiming legal compliance. An open coding protocol and corpus infrastructure accompany the paper.
+Our study introduces **Public-Document Observability** as an analytic construct and applies a comparative documentary protocol across five governance dimensions. We document patterned evidence gaps and explain their implications for accountability through the public record—maintaining the canonical non-claims: no readiness scoring; no municipal ranking; no legal compliance determination; no LocalGovBench validation; no inference of internal governance quality. An open coding protocol and corpus infrastructure accompany the paper.
 
 We believe the manuscript fits GIQ's scholarship on government information, algorithmic transparency, and public-sector accountability.
 

@@ -18,7 +18,7 @@ Where programme-level evidence is missing, thin, or only indirectly signalled, *
 
 Evidence gaps create **accountability limitations** for external actors. Without observable ownership, oversight routines, log governance, vendor stewardship, or lifecycle artefacts, councils, auditors, researchers, and citizens cannot fully exercise accountability through public documentation alone. Internal accountability may continue; **public accountability via the documentary channel is constrained**.
 
-The study measures observability and gaps; it does not traverse the dashed boundary into inferred internal quality or readiness scores.
+The study measures Public-Document Observability and evidence gaps; it does not traverse the dashed boundary into inference of internal governance quality or readiness scoring.
 
 ---
 

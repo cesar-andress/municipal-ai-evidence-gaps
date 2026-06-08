@@ -37,7 +37,7 @@ Summarise the problem, method, core descriptive findings (once available), and c
 - Method: comparative observability analysis across D1–D5 dimensions
 - Findings placeholder: descriptive patterns of observable vs. under-observable evidence (to be filled post-coding)
 - Implications: accountability limitations for external reviewers relying on public documents
-- Explicit non-claims: no readiness scores, rankings, or compliance determinations
+- Explicit canonical non-claims: no readiness scoring; no municipal ranking; no legal compliance determination; no LocalGovBench validation; no inference of internal governance quality
 
 #### Expected evidence
 - Corpus size and document-type distribution (post-collection)
@@ -52,7 +52,7 @@ Summarise the problem, method, core descriptive findings (once available), and c
 #### Claims prohibited
 - Municipalities "lack governance" or "fail" at AI governance
 - Legal non-compliance or AI Act breach
-- Readiness rankings or performance league tables
+- Municipal ranking or performance league tables
 - Causal claims (e.g., transparency causes accountability failure)
 - Validation or refutation of LocalGovBench
 
@@ -71,7 +71,7 @@ Establish stakes, define the puzzle, state RQs and contributions, and orient the
   - **RQ1.** What governance evidence is publicly observable in municipal AI documentation?
   - **RQ2.** Which governance dimensions are systematically under-observable?
   - **RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
-- Three contributions (observability concept; evidence-gap analysis; open protocol)
+- Three contributions (Public-Document Observability concept; evidence gap analysis; open protocol)
 - Roadmap paragraph
 - Boundary statement: observability analysis, public documents only
 
@@ -89,7 +89,7 @@ Establish stakes, define the puzzle, state RQs and contributions, and orient the
 - Pre-emptive empirical conclusions ("most cities lack oversight evidence")
 - Normative condemnation of municipalities
 - Implying internal practices are weak because public docs are thin
-- Benchmark or compliance framing
+- LocalGovBench validation or legal compliance determination framing
 
 ---
 
@@ -118,7 +118,7 @@ Position the study within government information, algorithmic transparency, muni
 #### Claims prohibited
 - Dismissing prior literature as "wrong"
 - Claiming no prior work exists on algorithmic transparency
-- Positioning the paper as a benchmark validation study
+- Positioning the paper as a LocalGovBench validation study
 
 ---
 
@@ -133,7 +133,7 @@ Introduce **public-document observability** and the evidence-gap construct; pres
 - Five dimensions D1–D5 with programme-level rationale
 - Conceptual model (figure from [`conceptual_model.md`](conceptual_model.md))
 - Relationships to transparency, accountability, ceremonial compliance, administrative burden
-- Distinction: observability ≠ internal quality ≠ readiness ≠ compliance
+- Distinction: Public-Document Observability ≠ inference of internal governance quality ≠ readiness scoring ≠ legal compliance determination
 - Propositions P1–P4 as analytic expectations (not findings)
 
 #### Expected evidence
@@ -253,7 +253,7 @@ Interpret findings against theory; explain implications for government informati
 - Universal laws ("all municipalities…")
 - Causal certainty
 - Policy mandates framed as legal requirements
-- Benchmark validation claims
+- LocalGovBench validation claims
 
 ---
 
@@ -371,7 +371,7 @@ Close with concise restatement of problem, approach, findings summary, contribut
 | Element | Response |
 |---------|----------|
 | **Why it may occur** | AI governance field is saturated with indices, audits, and benchmark proposals |
-| **How to respond** | Explain that scoring would **over-interpret** public silence and violate epistemic bounds. Readiness scores imply internal quality inference. Instead, observability analysis supports **informed** use of benchmarks by showing what evidence public documents can supply. Cite [`non_claims.md`](non_claims.md) logic in Method footnote or box. |
+| **How to respond** | Explain that readiness scoring would **over-interpret** public silence and violate epistemic bounds. Readiness scoring implies inference of internal governance quality. Instead, Public-Document Observability analysis supports **informed** use of benchmarks by showing what observable evidence public documentation can supply. Cite [`non_claims.md`](non_claims.md) and [`global_editorial_style_guide.md`](global_editorial_style_guide.md) in Method footnote or box. |
 
 ### Attack 7: "Coding subjectivity / inter-coder reliability"
 

@@ -2,7 +2,7 @@
 
 ## Data source scope
 
-This project uses **public documents only**, retrieved from official municipal websites and publicly linked governance materials.
+This project uses **public documentation** only, retrieved from official municipal websites and publicly linked governance materials.
 
 No freedom-of-information requests, administrative records, internal emails, procurement contracts (unless publicly posted), or personal data extracts are in scope for the initial design.
 
@@ -20,7 +20,7 @@ Automated retrieval must respect `robots.txt`, reasonable request rates, and mun
 
 ## Positioning
 
-Documentary gaps are analytic findings about **public observability**, not accusations of misconduct, legal violation, or organisational failure.
+Documentary evidence gaps are analytic findings about **Public-Document Observability**, not accusations of misconduct, legal compliance determination, or inference of internal governance quality.
 
 ## Archival release
 

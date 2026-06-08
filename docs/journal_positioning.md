@@ -17,7 +17,7 @@ This document assesses fit against four public-administration and digital-govern
 | Theory | Transparency, accountability, ceremonial compliance, administrative burden |
 | Empirics | European municipal public documents (not yet collected) |
 | Contribution type | Conceptual construct + empirical pattern analysis + open protocol |
-| Non-goals | Readiness scoring, rankings, legal compliance, benchmark validation |
+| Non-goals | no readiness scoring; no municipal ranking; no legal compliance determination; no LocalGovBench validation |
 
 ---
 

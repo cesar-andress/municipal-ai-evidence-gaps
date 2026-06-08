@@ -16,7 +16,7 @@ To develop and apply a **public-document observability framework** for municipal
 
 The study tests the working proposition that municipal AI documentation is frequently **transparent at the level of principles and commitments** but comparatively **thin at the level of evidence required for programme-level governance assessment**—ownership, oversight routines, data and log governance, vendor stewardship, and lifecycle accountability.
 
-The design is **descriptive and comparative**. It does not score readiness, rank municipalities, validate benchmarking instruments, or determine legal compliance.
+The design is **descriptive and comparative**. It maintains the canonical non-claims: no readiness scoring; no municipal ranking; no legal compliance determination; no LocalGovBench validation; no inference of internal governance quality.
 
 ---
 
@@ -76,10 +76,10 @@ The primary unit keeps analysis anchored in **locatable public evidence**. Munic
 
 Observability is not equivalent to:
 
-- internal governance quality
-- legal compliance
-- operational maturity
-- benchmark scores
+- inference of internal governance quality
+- legal compliance determination
+- readiness scoring
+- LocalGovBench validation
 
 It is an **epistemic boundary** concept: it marks what independent reviewers can know from the public record. Four evidence-status labels operationalise observability:
 
@@ -167,13 +167,13 @@ The research design records gaps descriptively and discusses burden as a **plaus
 
 The study introduces and operationalises **public-document observability** as an analytic construct for digital government research, distinguishing visibility of commitments from availability of programme-level evidence.
 
-### Contribution 2 — Evidence-gap analysis for municipal AI governance
+### Contribution 2 — Evidence gap analysis for municipal AI governance
 
 The study provides a comparative empirical account of **where** evidence gaps concentrate across governance dimensions and document types, advancing municipal AI governance scholarship beyond presence/absence of strategies or registers.
 
 ### Contribution 3 — Reusable coding protocol and open corpus infrastructure
 
-The study releases a documented coding protocol (D1–D5), schema, templates, and open analysis infrastructure designed for replication, extension, and Zenodo archival—without producing readiness scores or municipal rankings.
+The study releases a documented coding protocol (D1–D5), schema, templates, and open analysis infrastructure designed for replication, extension, and Zenodo archival—without readiness scoring or municipal ranking.
 
 ---
 
@@ -194,10 +194,11 @@ Operational details: [`study_protocol_v0_1.md`](study_protocol_v0_1.md).
 
 ## 13. Design boundaries (non-claims summary)
 
-- No municipal readiness scoring
-- No city rankings
-- No LocalGovBench validation
-- No AI Act compliance determination
+- no readiness scoring
+- no municipal ranking
+- no legal compliance determination
+- no LocalGovBench validation
+- no inference of internal governance quality
 - No personal data processing
 - No non-public data collection
 

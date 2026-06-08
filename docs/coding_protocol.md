@@ -5,7 +5,7 @@
 
 ## Purpose
 
-Code publicly accessible municipal AI documents for **observability** across five programme-level dimensions (D1–D5). Coding records what appears in public documentation. It does not evaluate municipal performance, legal compliance, readiness, or LocalGovBench validity.
+Code publicly accessible municipal AI documents for **Public-Document Observability** across five programme-level dimensions (D1–D5). Coding records what appears in public documentation. The canonical non-claims apply: no readiness scoring; no municipal ranking; no legal compliance determination; no LocalGovBench validation; no inference of internal governance quality.
 
 ## Evidence status labels
 
@@ -176,10 +176,10 @@ Sustained governance requires observable lifecycle accountability — what happe
 
 ## Prohibited uses
 
-- Do not convert status labels into readiness indices
-- Do not rank municipalities by count of `not_observable_publicly`
-- Do not treat gaps as AI Act non-compliance
-- Do not use coding to validate LocalGovBench items
+- Do not convert status labels into readiness scoring
+- Do not perform municipal ranking by count of `not_observable_publicly`
+- Do not perform legal compliance determination from gaps
+- Do not perform LocalGovBench validation
 
 ## CSV templates
 

@@ -14,7 +14,7 @@ To examine what European municipal AI governance documentation makes **publicly 
 
 The study tests the working claim that public municipal AI documentation is often visible at the level of **principles and commitments** but thinner at the level of **evidence needed for independent programme-level governance assessment**.
 
-This is an **observability analysis**. It does not validate benchmarking instruments (including LocalGovBench), score municipal readiness, or assess legal compliance.
+This is a **Public-Document Observability** analysis. It maintains the canonical non-claims: no readiness scoring; no municipal ranking; no legal compliance determination; no LocalGovBench validation; no inference of internal governance quality.
 
 ---
 
@@ -173,17 +173,15 @@ Evidence must be **locatable** in the source (`page_or_section`) and quotable at
 
 ## 10. Non-claims
 
-This study and artifact **do not**:
+Canonical non-claims (see [`global_editorial_style_guide.md`](global_editorial_style_guide.md)):
 
-- Measure municipal AI readiness or maturity
-- Rank or league-table municipalities
-- Validate LocalGovBench or any readiness benchmark
-- Infer internal governance quality from public silence
-- Assess EU AI Act or other legal compliance
-- Evaluate model accuracy, fairness, or performance
-- Process personal data
+- no readiness scoring
+- no municipal ranking
+- no legal compliance determination
+- no LocalGovBench validation
+- no inference of internal governance quality
 
-See `docs/non_claims.md` for the full non-claims register.
+Extended register: model performance evaluation, personal data processing, and non-public data collection remain out of scope. See [`non_claims.md`](non_claims.md).
 
 ---
 
@@ -210,7 +208,7 @@ See `docs/ethics_and_privacy.md`.
 | Reports | `outputs/reports/` | Descriptive gap patterns |
 | Protocol docs | `docs/` | Study protocol, coding protocol, non-claims |
 
-No readiness scores, rankings, or compliance matrices will be published.
+No readiness scoring, municipal ranking, or legal compliance determination outputs will be published.
 
 ---
 

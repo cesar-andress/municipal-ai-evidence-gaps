@@ -66,7 +66,7 @@ Exclude unconditionally:
 
 | Cluster | Countries (illustrative) | Documentation culture note |
 |---------|--------------------------|----------------------------|
-| Nordic | DK, FI, IS, NO, SE | Strong open-government norms; digital maturity |
+| Nordic | DK, FI, IS, NO, SE | Strong open-government norms; advanced digital-government publication |
 | Germanic | AT, CH, DE, NL (partial) | Formal administrative prose; federal complexity |
 | Napoleonic | BE, ES, FR, IT, PT | Legalistic policy style; variable local autonomy |
 | Anglo | IE, UK | Plain-language transparency; metropolitan structures |
@@ -276,7 +276,7 @@ No step in this workflow has been executed for v0.1 strategy.
 - Candidates are **not** scored or ranked
 - Tier labels describe **expected visibility**, not municipal performance
 - Verification may exclude any candidate without implication of failure
-- Sampling serves observability comparison, not readiness benchmarking
+- Sampling serves Public-Document Observability comparison, not readiness scoring
 
 See [`non_claims.md`](non_claims.md) and [`sampling_risks.md`](sampling_risks.md).
 
