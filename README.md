@@ -195,7 +195,8 @@ See also [`CITATION.cff`](CITATION.cff).
 | Pilot coding | **Complete** (3-document protocol test) |
 | Coding protocol | **v0.1.1** (pilot refinements applied) |
 | Full corpus coding | **Complete** (v0.1.1; 115 rows; 23 sources) |
-| Results / findings | **None available** (coded observations only) |
+| RQ analysis | **Complete** (RQ1–RQ3 descriptive analysis; candidate claims inventoried) |
+| Manuscript results | **Not written** (analysis artefacts only) |
 
 The initial corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. Full-corpus D1–D5 coding (v0.1.1) produced **115 coded observations** in [`data/processed/coding_results_v0_1_1.csv`](data/processed/coding_results_v0_1_1.csv). No paper findings or pattern analysis are included.
 
@@ -206,11 +207,12 @@ The initial corpus manifest registers **23 official municipal source URLs** acro
 **Pilot coding status:** complete — protocol validation only; see [`outputs/reports/pilot_coding_protocol_test.md`](outputs/reports/pilot_coding_protocol_test.md) and [`outputs/reports/coding_protocol_refinement_log.md`](outputs/reports/coding_protocol_refinement_log.md)  
 **Coding protocol version:** v0.1.1 — see [`docs/coding_protocol.md`](docs/coding_protocol.md), [`docs/coding_decision_rules_v0_1_1.md`](docs/coding_decision_rules_v0_1_1.md), [`outputs/reports/protocol_change_log_v0_1_1.md`](outputs/reports/protocol_change_log_v0_1_1.md)  
 **Full corpus coding status:** complete — see [`outputs/reports/coding_summary_v0_1_1.md`](outputs/reports/coding_summary_v0_1_1.md) and [`outputs/reports/coding_decision_log_v0_1_1.md`](outputs/reports/coding_decision_log_v0_1_1.md)  
-**Pre-RQ distribution audit:** complete — recommendation: proceed to RQ analysis; see [`outputs/reports/coding_distribution_audit_v0_1_1.md`](outputs/reports/coding_distribution_audit_v0_1_1.md) and [`outputs/reports/pre_analysis_validity_check.md`](outputs/reports/pre_analysis_validity_check.md)
+**Pre-RQ distribution audit:** complete — see [`outputs/reports/coding_distribution_audit_v0_1_1.md`](outputs/reports/coding_distribution_audit_v0_1_1.md) and [`outputs/reports/pre_analysis_validity_check.md`](outputs/reports/pre_analysis_validity_check.md)  
+**RQ analysis status:** complete — see [`outputs/reports/rq_analysis_v0_1.md`](outputs/reports/rq_analysis_v0_1.md), [`outputs/reports/findings_candidate_tables.md`](outputs/reports/findings_candidate_tables.md), [`outputs/reports/findings_candidate_figures.md`](outputs/reports/findings_candidate_figures.md), [`outputs/reports/result_claims_inventory.md`](outputs/reports/result_claims_inventory.md)
 
 ## Status
 
-**v0.1 research design, corpus manifest, pilot coding test, coding protocol v0.1.1, and full-corpus coding complete.** Coded observations only; no paper findings or municipal comparisons are included.
+**v0.1 research design through RQ1–RQ3 descriptive analysis complete.** Initial RQ analysis produced candidate tables, figures, and claims inventory. Manuscript text not written.
 
 ## License
 
