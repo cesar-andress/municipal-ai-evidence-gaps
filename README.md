@@ -196,6 +196,7 @@ See also [`CITATION.cff`](CITATION.cff).
 | Coding protocol | **v0.1.1** (pilot refinements applied) |
 | Full corpus coding | **Complete** (v0.1.1; 115 rows; 23 sources) |
 | RQ analysis | **Complete** (RQ1–RQ3 descriptive analysis; candidate claims inventoried) |
+| Results consistency audit | **Complete** (CSV-validated freeze issued) |
 | Manuscript results | **Not written** (analysis artefacts only) |
 
 The initial corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. Full-corpus D1–D5 coding (v0.1.1) produced **115 coded observations** in [`data/processed/coding_results_v0_1_1.csv`](data/processed/coding_results_v0_1_1.csv). No paper findings or pattern analysis are included.
@@ -208,11 +209,12 @@ The initial corpus manifest registers **23 official municipal source URLs** acro
 **Coding protocol version:** v0.1.1 — see [`docs/coding_protocol.md`](docs/coding_protocol.md), [`docs/coding_decision_rules_v0_1_1.md`](docs/coding_decision_rules_v0_1_1.md), [`outputs/reports/protocol_change_log_v0_1_1.md`](outputs/reports/protocol_change_log_v0_1_1.md)  
 **Full corpus coding status:** complete — see [`outputs/reports/coding_summary_v0_1_1.md`](outputs/reports/coding_summary_v0_1_1.md) and [`outputs/reports/coding_decision_log_v0_1_1.md`](outputs/reports/coding_decision_log_v0_1_1.md)  
 **Pre-RQ distribution audit:** complete — see [`outputs/reports/coding_distribution_audit_v0_1_1.md`](outputs/reports/coding_distribution_audit_v0_1_1.md) and [`outputs/reports/pre_analysis_validity_check.md`](outputs/reports/pre_analysis_validity_check.md)  
-**RQ analysis status:** complete — see [`outputs/reports/rq_analysis_v0_1.md`](outputs/reports/rq_analysis_v0_1.md), [`outputs/reports/findings_candidate_tables.md`](outputs/reports/findings_candidate_tables.md), [`outputs/reports/findings_candidate_figures.md`](outputs/reports/findings_candidate_figures.md), [`outputs/reports/result_claims_inventory.md`](outputs/reports/result_claims_inventory.md)
+**RQ analysis status:** complete — see [`outputs/reports/rq_analysis_v0_1.md`](outputs/reports/rq_analysis_v0_1.md), [`outputs/reports/findings_candidate_tables.md`](outputs/reports/findings_candidate_tables.md), [`outputs/reports/findings_candidate_figures.md`](outputs/reports/findings_candidate_figures.md), [`outputs/reports/result_claims_inventory.md`](outputs/reports/result_claims_inventory.md)  
+**Results consistency audit:** complete — see [`outputs/reports/results_consistency_audit.md`](outputs/reports/results_consistency_audit.md) and frozen numerals in [`outputs/reports/results_freeze_v1.md`](outputs/reports/results_freeze_v1.md)
 
 ## Status
 
-**v0.1 research design through RQ1–RQ3 descriptive analysis complete.** Initial RQ analysis produced candidate tables, figures, and claims inventory. Manuscript text not written.
+**v0.1 research design through validated results freeze complete.** RQ analysis and consistency audit produced frozen numerals (`results_freeze_v1.md`) for manuscript use. Manuscript text not written.
 
 ## License
 

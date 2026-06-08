@@ -48,6 +48,8 @@ outputs/reports/*
 !outputs/reports/findings_candidate_tables.md
 !outputs/reports/findings_candidate_figures.md
 !outputs/reports/result_claims_inventory.md
+!outputs/reports/results_consistency_audit.md
+!outputs/reports/results_freeze_v1.md
 
 # OS and editors
 .DS_Store
