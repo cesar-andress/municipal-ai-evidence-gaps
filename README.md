@@ -30,7 +30,10 @@ This project is **observability analysis**, not benchmark validation or complian
 | | Model performance evaluation |
 
 Full boundary register: [`docs/non_claims.md`](docs/non_claims.md)  
+Research design v0.1: [`docs/research_design_v0_1.md`](docs/research_design_v0_1.md)  
 Study protocol v0.1: [`docs/study_protocol_v0_1.md`](docs/study_protocol_v0_1.md)  
+Conceptual model: [`docs/conceptual_model.md`](docs/conceptual_model.md)  
+Journal positioning: [`docs/journal_positioning.md`](docs/journal_positioning.md)  
 Coding protocol: [`docs/coding_protocol.md`](docs/coding_protocol.md)
 
 ## Repository structure
@@ -46,7 +49,10 @@ municipal-ai-evidence-gaps/
 │       ├── corpus_manifest.csv           # Working manifest (gitignored)
 │       └── coding_dataset.csv            # Working coding data (gitignored)
 ├── docs/
-│   ├── study_protocol_v0_1.md            # Study protocol
+│   ├── research_design_v0_1.md           # Publishable study design
+│   ├── study_protocol_v0_1.md            # Operational study protocol
+│   ├── conceptual_model.md               # Theoretical model + diagram
+│   ├── journal_positioning.md            # Target journal analysis
 │   ├── coding_protocol.md                # D1–D5 coding sheets
 │   ├── non_claims.md                     # Boundary register
 │   ├── methodology.md
@@ -143,9 +149,23 @@ Each release receives a versioned DOI. `CITATION.cff` will be updated with the Z
 
 See also [`CITATION.cff`](CITATION.cff).
 
+## Research design status
+
+| Milestone | Status |
+|-----------|--------|
+| Research design v0.1 | Complete |
+| Study protocol v0.1 | Complete |
+| Conceptual model | Complete |
+| Journal positioning (GIQ primary) | Complete |
+| Corpus collection | **Not started** |
+| Coding (D1–D5) | **Not started** |
+| Results / findings | **None available** |
+
+No municipal documents have been collected. No websites have been scraped. No municipalities are named in the repository. The project remains at the **publishable study design** stage prior to empirical work.
+
 ## Status
 
-**v0.1 protocol defined.** Corpus collection and coding have not started. No real municipal data, scraped content, or results are included.
+**v0.1 research design and protocol complete.** Corpus collection and coding have not started. No real municipal data, scraped content, or results are included.
 
 ## License
 
