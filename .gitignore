@@ -21,6 +21,7 @@ data/processed/*
 !data/processed/.gitkeep
 !data/processed/*_template.csv
 !data/processed/tier_a_verification.csv
+!data/processed/corpus_manifest_v0_1.csv
 data/external/*
 !data/external/.gitkeep
 
@@ -32,6 +33,7 @@ outputs/figures/*
 outputs/reports/*
 !outputs/reports/.gitkeep
 !outputs/reports/tier_a_verification_report.md
+!outputs/reports/corpus_inventory_report.md
 
 # OS and editors
 .DS_Store

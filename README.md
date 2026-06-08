@@ -61,6 +61,8 @@ municipal-ai-evidence-gaps/
 │   ├── interim/                          # Normalised staging (future)
 │   └── processed/
 │       ├── corpus_manifest_template.csv  # Manifest schema (v0.1)
+│       ├── corpus_manifest_v0_1.csv      # Initial corpus manifest (v0.1)
+│       ├── tier_a_verification.csv       # Tier A screening results
 │       ├── coding_template.csv           # Coding schema (v0.1)
 │       ├── corpus_manifest.csv           # Working manifest (gitignored)
 │       └── coding_dataset.csv            # Working coding data (gitignored)
@@ -184,18 +186,19 @@ See also [`CITATION.cff`](CITATION.cff).
 | GIQ storyline | Complete |
 | Sampling strategy v0.1 | Complete |
 | Tier A verification | **Complete** (6 candidates screened; 6 eligible; no coding) |
-| Corpus collection | **Not started** |
+| Corpus collection | **Complete** (v0.1 manifest; 23 official sources; no scraping) |
 | Coding (D1–D5) | **Not started** |
 | Results / findings | **None available** |
 
-No municipal documents have been collected. No websites have been scraped. Candidate municipalities in the sampling strategy are **proposed frame placeholders** pending verification—not a coded corpus. The project remains at the **study design + sampling strategy** stage prior to empirical work.
+The initial corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. No document content has been scraped. No D1–D5 coding or evidence labels have been applied.
 
 **Sampling strategy status:** complete  
-**Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)
+**Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)  
+**Corpus inventory status:** complete — manifest only; see [`outputs/reports/corpus_inventory_report.md`](outputs/reports/corpus_inventory_report.md)
 
 ## Status
 
-**v0.1 research design and protocol complete.** Corpus collection and coding have not started. No real municipal data, scraped content, or results are included.
+**v0.1 research design, protocol, and initial corpus manifest complete.** Corpus manifest v0.1 lists official municipal source metadata only. D1–D5 coding has not started. No scraped content, evidence labels, or results are included.
 
 ## License
 
