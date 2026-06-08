@@ -36,6 +36,8 @@ Conceptual model: [`docs/conceptual_model.md`](docs/conceptual_model.md)
 Journal positioning: [`docs/journal_positioning.md`](docs/journal_positioning.md)  
 Manuscript blueprint: [`docs/paper_blueprint.md`](docs/paper_blueprint.md)  
 GIQ storyline: [`docs/giq_storyline.md`](docs/giq_storyline.md)  
+Sampling strategy: [`docs/municipal_sampling_strategy_v0_1.md`](docs/municipal_sampling_strategy_v0_1.md)  
+Sampling risks: [`docs/sampling_risks.md`](docs/sampling_risks.md)  
 Coding protocol: [`docs/coding_protocol.md`](docs/coding_protocol.md)
 
 ## Repository structure
@@ -57,6 +59,8 @@ municipal-ai-evidence-gaps/
 │   ├── journal_positioning.md            # Target journal analysis
 │   ├── paper_blueprint.md                # Full manuscript blueprint
 │   ├── giq_storyline.md                  # GIQ narrative arc
+│   ├── municipal_sampling_strategy_v0_1.md  # Sampling frame (v0.1)
+│   ├── sampling_risks.md                 # Bias register and mitigations
 │   ├── coding_protocol.md                # D1–D5 coding sheets
 │   ├── non_claims.md                     # Boundary register
 │   ├── methodology.md
@@ -163,11 +167,14 @@ See also [`CITATION.cff`](CITATION.cff).
 | Journal positioning (GIQ primary) | Complete |
 | Manuscript blueprint | Complete |
 | GIQ storyline | Complete |
+| Sampling strategy v0.1 | Complete |
 | Corpus collection | **Not started** |
 | Coding (D1–D5) | **Not started** |
 | Results / findings | **None available** |
 
-No municipal documents have been collected. No websites have been scraped. No municipalities are named in the repository. The project remains at the **publishable study design** stage prior to empirical work.
+No municipal documents have been collected. No websites have been scraped. Candidate municipalities in the sampling strategy are **proposed frame placeholders** pending verification—not a coded corpus. The project remains at the **study design + sampling strategy** stage prior to empirical work.
+
+**Sampling strategy status:** complete
 
 ## Status
 
