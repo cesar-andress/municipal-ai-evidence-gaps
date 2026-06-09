@@ -24,6 +24,8 @@ data/processed/*
 !data/processed/corpus_manifest_v0_1.csv
 !data/processed/corpus_manifest_quality_flags_v0_1.csv
 !data/processed/coding_results_v0_1_1.csv
+!data/processed/coding_results_v0_1_1_sensitivity_ok_only.csv
+!data/processed/corpus_manifest_v0_1_sensitivity_ok_only.csv
 data/external/*
 !data/external/.gitkeep
 
@@ -50,6 +52,7 @@ outputs/reports/*
 !outputs/reports/result_claims_inventory.md
 !outputs/reports/results_consistency_audit.md
 !outputs/reports/results_freeze_v1.md
+!outputs/reports/bot_gated_sensitivity_check_v0_1.md
 
 # OS and editors
 .DS_Store
