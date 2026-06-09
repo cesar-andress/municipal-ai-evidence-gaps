@@ -153,26 +153,24 @@ Zenodo tag **`v0.1.0`** will include:
 
 **Not included in v0.1:** scraped corpora, coded results, municipal ranking, readiness scoring, or legal compliance determination.
 
-## Zenodo release plan
+## Zenodo release
 
-| Version | Contents |
-|---------|----------|
-| `v0.1.0` | Protocol, schema, templates, documentation (current milestone) |
-| `v0.2.0` | Pilot corpus manifest and coding dataset |
-| `v1.0.0` | Full analysis corpus and manuscript-linked exports |
+| Version | Contents | DOI |
+|---------|----------|-----|
+| `v1.0.1` | Full analysis corpus, protocol v0.1.1, frozen results, reproducibility materials | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
 
-Each release receives a versioned DOI. `CITATION.cff` will be updated with the Zenodo DOI upon first deposition.
+Earlier development milestones (`v0.1.0`, `v0.2.0`) preceded the manuscript-linked release.
 
 ## Citation
 
 ```bibtex
-@software{municipal_ai_evidence_gaps_v01,
+@software{municipal_ai_evidence_gaps_v101,
   title  = {Municipal AI Evidence Gaps: Public Documentation Corpus and Analysis Artifact},
-  author = {TBD},
+  author = {Andr{\'e}s, C{\'e}sar},
   year   = {2026},
-  version = {0.1.0},
-  url    = {https://github.com/TBD/municipal-ai-evidence-gaps},
-  note   = {Zenodo DOI pending}
+  version = {1.0.1},
+  doi    = {10.5281/zenodo.20603415},
+  url    = {https://github.com/cesar-andress/municipal-ai-evidence-gaps/tree/v1.0.1}
 }
 ```
 
