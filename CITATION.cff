@@ -3,9 +3,10 @@ title: "Municipal AI Evidence Gaps: Public Documentation Corpus and Analysis Art
 message: "If you use this software or data, please cite it as below."
 type: software
 authors:
-  - family-names: "TBD"
-    given-names: "Author"
-    affiliation: "TBD"
+  - family-names: "Andrés"
+    given-names: "César"
+    orcid: "https://orcid.org/0009-0001-8968-3404"
+    affiliation: "Universidad Camilo José Cela, Madrid, Spain"
 repository-code: "https://github.com/TBD/municipal-ai-evidence-gaps"
 url: "https://github.com/TBD/municipal-ai-evidence-gaps"
 license: CC-BY-4.0
@@ -23,8 +24,8 @@ preferred-citation:
   title: "When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance"
   subtitle: "A Comparative Analysis of European Municipal AI Documentation"
   authors:
-    - family-names: "TBD"
-      given-names: "Author"
+    - family-names: "Andrés"
+      given-names: "César"
   journal: "Government Information Quarterly"
   year: 2026
   notes: "Manuscript in preparation; Zenodo DOI to be added upon release."

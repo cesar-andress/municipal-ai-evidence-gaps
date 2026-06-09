@@ -10,7 +10,7 @@ readme = "README.md"
 license = { text = "CC-BY-4.0" }
 requires-python = ">=3.11"
 authors = [
-  { name = "TBD Author" },
+  { name = "César Andrés", email = "cesar.andress@ucjc.edu" },
 ]
 keywords = [
   "municipal AI governance",
