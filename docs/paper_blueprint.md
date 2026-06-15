@@ -71,7 +71,7 @@ Establish stakes, define the puzzle, state RQs and contributions, and orient the
   - **RQ1.** What governance evidence is publicly observable in municipal AI documentation?
   - **RQ2.** Which governance dimensions are systematically under-observable?
   - **RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
-- Three contributions (commitment-heavy/artefact-thin profile; genre inversion; open coding materials)
+- Three contributions (genre inversion; commitment-heavy/artefact-thin baseline; open materials + robustness)
 - Roadmap paragraph
 - Boundary statement: observability analysis, public documents only
 

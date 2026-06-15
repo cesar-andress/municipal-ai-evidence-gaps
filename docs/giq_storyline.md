@@ -12,7 +12,7 @@ This document defines the **narrative arc** the manuscript must sustain from abs
 
 ## Storyline in one paragraph
 
-European municipalities are publishing AI governance documents at accelerating speed, signalling transparency and accountability to citizens and overseers. Yet government information scholarship has long cautioned that disclosure can outrun the evidentiary substance oversight requires. This manuscript asks a GIQ-centred question: **what programme-level governance evidence do public municipal AI documents actually make observable—and where do systematic evidence gaps constrain independent assessment?** By introducing public-document observability and mapping gaps across five programme-level dimensions, the study shows when transparency is necessary but insufficient, and what this means for accountability through the public record.
+European municipalities publish AI governance documents at accelerating speed, signalling transparency and accountability to citizens and overseers. This manuscript asks a GIQ-centred question: **do purpose-built transparency instruments---algorithm registers and transparency portals---supply thinner independently verifiable governance evidence than broader AI strategies and governance frameworks in the same official record?** By mapping genre inversion, a commitment-heavy artefact-thin baseline, and bounded downstream gaps across five programme-level dimensions, the study shows when counting registers and portals is not a sufficient proxy for independent assessability.
 
 ---
 

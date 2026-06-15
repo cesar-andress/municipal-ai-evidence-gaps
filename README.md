@@ -19,10 +19,10 @@ The artifact is designed for reproducible documentary coding, pattern-oriented r
 
 | Level | Claim |
 |-------|-------|
-| **Primary** | Municipal AI public documentation is commitment-heavy and artefact-thin |
-| **Secondary** | Genre inversion: registers and portals thinner than strategies and frameworks |
-| **Supporting** | Open coding materials for bounded replication |
-| **Robustness evidence** | Retrieved-only sensitivity; IRR (40 cells, κ = 0.81) |
+| **Primary** | Genre inversion: registers and portals thinner than strategies and frameworks |
+| **Secondary (baseline)** | Commitment-heavy, artefact-thin evidence profile across the corpus |
+| **Tertiary (bounded)** | Downstream concentration in procurement and lifecycle dimensions |
+| **Supporting** | Open coding materials; retrieved-only sensitivity; IRR (40 cells, κ = 0.81) |
 
 Public-Document Observability (PDO) is an **operational lens** for coding, not a standalone theoretical contribution.
 

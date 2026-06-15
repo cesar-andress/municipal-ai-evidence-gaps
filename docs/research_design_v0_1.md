@@ -163,21 +163,21 @@ The research design records gaps descriptively and discusses burden as a **plaus
 
 ## 11. Expected contributions
 
-### Contribution 1 — Commitment-heavy, artefact-thin evidence-gap profile (primary)
+### Contribution 1 — Genre inversion across document types (primary)
 
-The study provides a reproducible empirical profile showing that municipal AI public documentation is commitment-heavy and artefact-thin across five governance dimensions coded uniformly across document types within matched municipal corpora.
+Purpose-built transparency instruments (algorithm registers and transparency portals) yield thinner independently verifiable governance evidence than AI strategies and governance frameworks within the same municipal corpora.
 
-### Contribution 2 — Genre inversion across document types (secondary)
+### Contribution 2 — Commitment-heavy, artefact-thin evidence-gap profile (secondary baseline)
 
-The study documents genre inversion: purpose-built transparency instruments (algorithm registers and transparency portals) yield thinner verifiable governance evidence than AI strategies and governance frameworks within the same municipal corpora.
+The study provides a reproducible empirical profile showing that municipal AI public documentation is generally commitment-heavy and artefact-thin across five governance dimensions.
 
-### Contribution 3 — Open coding materials (supporting)
+### Contribution 3 — Open coding materials and robustness evidence (supporting)
 
-The study releases a documented coding protocol (D1–D5), schema, templates, and open analysis infrastructure designed for bounded replication and Zenodo archival—without readiness scoring or municipal ranking.
+The study releases a documented coding protocol (D1–D5), schema, templates, and open analysis infrastructure; retrieved-only sensitivity and IRR (40 cells; κ = 0.81) support replication without altering frozen full-corpus numerals.
 
-### Robustness evidence (not a separate contribution claim)
+### Tertiary pattern (bounded)
 
-Retrieved-only sensitivity analysis and stratified inter-rater reliability (40 cells; κ = 0.81) support the principal patterns without altering frozen full-corpus numerals.
+Downstream concentration in procurement and lifecycle dimensions, explicitly bounded by corpus composition and retrieved-only sensitivity.
 
 ---
 
