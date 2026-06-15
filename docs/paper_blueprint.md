@@ -1,11 +1,10 @@
 # Manuscript blueprint v0.1
 
 **Target journal:** Government Information Quarterly  
-**Title:** When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance  
-**Subtitle:** A Comparative Analysis of European Municipal AI Documentation  
+**Title:** Transparency Instruments That Disclose Least: Genre Inversion in Municipal AI Governance Documentation  
 **Blueprint version:** 0.1  
 **Date:** 2026-06-08  
-**Status:** Blueprint complete; manuscript not drafted; no empirical data collected
+**Status:** Blueprint complete; superseded by active GIQ manuscript (genre-inversion framing; artifact v1.0.4)
 
 **Companion documents:** [`research_design_v0_1.md`](research_design_v0_1.md) · [`conceptual_model.md`](conceptual_model.md) · [`giq_storyline.md`](giq_storyline.md) · [`study_protocol_v0_1.md`](study_protocol_v0_1.md) · [`non_claims.md`](non_claims.md)
 

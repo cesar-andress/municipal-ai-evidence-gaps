@@ -1,6 +1,6 @@
 # Research design v0.1
 
-**Paper working title:** When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance  
+**Paper working title:** Transparency Instruments That Disclose Least: Genre Inversion in Municipal AI Governance Documentation  
 **Subtitle:** A Comparative Analysis of European Municipal AI Documentation  
 **Design version:** 0.1  
 **Date:** 2026-06-08  
@@ -171,13 +171,9 @@ Purpose-built transparency instruments (algorithm registers and transparency por
 
 The study provides a reproducible empirical profile showing that municipal AI public documentation is generally commitment-heavy and artefact-thin across five governance dimensions.
 
-### Contribution 3 — Open coding materials and robustness evidence (supporting)
+### Contribution 3 — Supporting patterns and open materials
 
-The study releases a documented coding protocol (D1–D5), schema, templates, and open analysis infrastructure; retrieved-only sensitivity and IRR (40 cells; κ = 0.81) support replication without altering frozen full-corpus numerals.
-
-### Tertiary pattern (bounded)
-
-Downstream concentration in procurement and lifecycle dimensions, explicitly bounded by corpus composition and retrieved-only sensitivity.
+Downstream concentration in procurement and lifecycle dimensions (composition-bounded); retrieved-only sensitivity; IRR (40 cells; κ = 0.81); and openly documented coding protocol, schema, templates, and analysis infrastructure. Replication materials support the primary and secondary patterns without altering frozen full-corpus numerals.
 
 ---
 
@@ -191,7 +187,7 @@ Downstream concentration in procurement and lifecycle dimensions, explicitly bou
 | Coding | D1–D5 observability coding | Complete |
 | Analysis | Pattern-oriented summaries | Complete |
 | Robustness | Retrieved-only sensitivity + IRR subsample | Complete |
-| Release | Zenodo v1.0.2 with corpus + robustness/IRR | Complete |
+| Release | Zenodo v1.0.4 with corpus + robustness/IRR | Complete |
 
 Operational details: [`study_protocol_v0_1.md`](study_protocol_v0_1.md).
 

@@ -1,8 +1,7 @@
 # Journal positioning v0.1
 
-**Manuscript title:** When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance  
-**Subtitle:** A Comparative Analysis of European Municipal AI Documentation  
-**Design version:** 0.1
+**Manuscript title:** Transparency Instruments That Disclose Least: Genre Inversion in Municipal AI Governance Documentation  
+**Design version:** 0.1 (aligned with GIQ manuscript; artifact release v1.0.4)
 
 This document assesses fit against four public-administration and digital-government journals and recommends a primary target.
 
@@ -109,7 +108,7 @@ This document assesses fit against four public-administration and digital-govern
 
 4. **Methods and reproducibility.** The open coding protocol, schema, and corpus infrastructure align with emerging expectations for transparent empirical research without turning the paper into a software article.
 
-5. **Title and framing.** *When Transparency Is Not Enough* is an information-quality claim, not a management performance claim—strengthening GIQ fit over PMR or TGPPP.
+5. **Title and framing.** *Transparency Instruments That Disclose Least* is an information-quality claim about genre-specific assessability, not a management performance claim—strengthening GIQ fit over PMR or TGPPP.
 
 ### Secondary options
 

@@ -1,7 +1,7 @@
 # Study protocol v0.1
 
 **Project:** Municipal AI Evidence Gaps  
-**Paper working title:** When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance  
+**Paper working title:** Transparency Instruments That Disclose Least: Genre Inversion in Municipal AI Governance Documentation  
 **Protocol version:** 0.1  
 **Date:** 2026-06-08  
 **Status:** Defined; corpus collection and coding not yet started

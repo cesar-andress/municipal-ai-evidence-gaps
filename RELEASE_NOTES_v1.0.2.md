@@ -1,5 +1,7 @@
 # Release notes — v1.0.2
 
+> **OBSOLETE — superseded by [`RELEASE_NOTES_v1.0.4.md`](RELEASE_NOTES_v1.0.4.md).** Retained for release history only.
+
 **Date:** 2026-06-15  
 **DOI:** [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415)  
 **Manuscript:** *When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance* (GIQ submission)

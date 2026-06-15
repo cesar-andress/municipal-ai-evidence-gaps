@@ -1,8 +1,7 @@
 # GIQ storyline v0.1
 
 **Target journal:** Government Information Quarterly  
-**Title:** When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance  
-**Subtitle:** A Comparative Analysis of European Municipal AI Documentation
+**Title:** Transparency Instruments That Disclose Least: Genre Inversion in Municipal AI Governance Documentation
 
 This document defines the **narrative arc** the manuscript must sustain from abstract through conclusion. It is a storyline guide, not a draft manuscript.
 

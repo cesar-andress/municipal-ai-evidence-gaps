@@ -2,16 +2,14 @@
 
 Public research artifact supporting:
 
-**When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance**  
-*A Comparative Analysis of European Municipal AI Documentation*
+**Transparency Instruments That Disclose Least: Genre Inversion in Municipal AI Governance Documentation**  
+*(Government Information Quarterly submission)*
 
 ## Project purpose
 
 This repository supports a **comparative observability analysis** of public municipal AI governance documentation in Europe.
 
-The study examines what public documentation makes observable and what programme-level evidence remains unavailable for independent governance assessment. The working claim under investigation:
-
-> Public municipal AI documentation is often visible at the level of principles and commitments but thinner at the level of evidence needed for independent programme-level governance assessment.
+The study examines whether purpose-built transparency instruments---algorithm registers and transparency portals---supply thinner independently verifiable governance evidence than broader AI strategies and governance frameworks within the same municipal official record.
 
 The artifact is designed for reproducible documentary coding, pattern-oriented reporting, and **Zenodo** archival release alongside the GIQ manuscript.
 
@@ -20,9 +18,8 @@ The artifact is designed for reproducible documentary coding, pattern-oriented r
 | Level | Claim |
 |-------|-------|
 | **Primary** | Genre inversion: registers and portals thinner than strategies and frameworks |
-| **Secondary (baseline)** | Commitment-heavy, artefact-thin evidence profile across the corpus |
-| **Tertiary (bounded)** | Downstream concentration in procurement and lifecycle dimensions |
-| **Supporting** | Open coding materials; retrieved-only sensitivity; IRR (40 cells, κ = 0.81) |
+| **Secondary** | Commitment-heavy, artefact-thin evidence profile across the corpus |
+| **Supporting** | Downstream concentration (composition-bounded); retrieved-only sensitivity; IRR (40 cells, κ = 0.81); open coding materials |
 
 Public-Document Observability (PDO) is an **operational lens** for coding, not a standalone theoretical contribution.
 
@@ -186,23 +183,24 @@ Zenodo tag **`v0.1.0`** will include:
 
 | Version | Contents | DOI |
 |---------|----------|-----|
-| `v1.0.2` | Full corpus, protocol v0.1.1, frozen results, sensitivity + IRR materials, replication scripts | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
-| `v1.0.1` | Full analysis corpus, protocol v0.1.1, frozen results (superseded by v1.0.2) | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
+| `v1.0.4` | **Current manuscript-linked release:** full corpus, protocol v0.1.1, frozen results, sensitivity + IRR materials, replication scripts, genre-inversion alignment | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
+| `v1.0.2` | Full corpus, protocol v0.1.1, frozen results, sensitivity + IRR materials (superseded by v1.0.4) | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
+| `v1.0.1` | Full analysis corpus, protocol v0.1.1, frozen results (superseded) | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
 
 Earlier development milestones (`v0.1.0`, `v0.2.0`) preceded the manuscript-linked release.
 
-See [`RELEASE_NOTES_v1.0.2.md`](RELEASE_NOTES_v1.0.2.md) for v1.0.2 additions.
+See [`RELEASE_NOTES_v1.0.4.md`](RELEASE_NOTES_v1.0.4.md) for the current release. [`RELEASE_NOTES_v1.0.2.md`](RELEASE_NOTES_v1.0.2.md) is **obsolete** (superseded).
 
 ## Citation
 
 ```bibtex
-@software{municipal_ai_evidence_gaps_v102,
+@software{municipal_ai_evidence_gaps_v104,
   title  = {Municipal AI Evidence Gaps: Public Documentation Corpus and Analysis Artifact},
   author = {Andr{\'e}s, C{\'e}sar},
   year   = {2026},
-  version = {1.0.2},
+  version = {1.0.4},
   doi    = {10.5281/zenodo.20603415},
-  url    = {https://github.com/cesar-andress/municipal-ai-evidence-gaps/tree/v1.0.2}
+  url    = {https://github.com/cesar-andress/municipal-ai-evidence-gaps/tree/v1.0.4}
 }
 ```
 
@@ -228,7 +226,7 @@ See also [`CITATION.cff`](CITATION.cff).
 | RQ analysis | **Complete** (RQ1–RQ3 descriptive analysis; candidate claims inventoried) |
 | Results consistency audit | **Complete** (CSV-validated freeze issued) |
 | Robustness + IRR | **Complete** (retrieved-only sensitivity; 40-cell IRR, κ = 0.81) |
-| Manuscript | **Submitted** (GIQ; companion artifact v1.0.2) |
+| Manuscript | **Submitted** (GIQ; companion artifact v1.0.4) |
 
 The corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. Full-corpus D1–D5 coding (v0.1.1) produced **115 coded observations** in [`data/processed/coding_results_v0_1_1.csv`](data/processed/coding_results_v0_1_1.csv). Frozen numerals for the manuscript are in [`outputs/reports/results_freeze_v1.md`](outputs/reports/results_freeze_v1.md).
 
@@ -245,7 +243,7 @@ The corpus manifest registers **23 official municipal source URLs** across six T
 
 ## Status
 
-**Results freeze and robustness/IRR complete.** Manuscript-linked release **v1.0.2** includes sensitivity and IRR replication materials alongside frozen numerals (`results_freeze_v1.md`).
+**Results freeze and robustness/IRR complete.** Manuscript-linked release **v1.0.4** includes sensitivity and IRR replication materials alongside frozen numerals (`results_freeze_v1.md`).
 
 ## License
 

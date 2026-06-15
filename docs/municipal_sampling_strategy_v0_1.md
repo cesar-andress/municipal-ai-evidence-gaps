@@ -1,7 +1,7 @@
 # Municipal sampling strategy v0.1
 
 **Project:** Municipal AI Evidence Gaps  
-**Paper:** When Transparency Is Not Enough: Evidence Gaps in Municipal AI Governance  
+**Paper:** Transparency Instruments That Disclose Least: Genre Inversion in Municipal AI Governance Documentation  
 **Strategy version:** 0.1  
 **Date:** 2026-06-08  
 **Status:** Strategy complete; **no documents collected; no candidates verified**
