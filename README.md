@@ -13,7 +13,18 @@ The study examines what public documentation makes observable and what programme
 
 > Public municipal AI documentation is often visible at the level of principles and commitments but thinner at the level of evidence needed for independent programme-level governance assessment.
 
-The artifact is designed for reproducible documentary coding, descriptive reporting, and **Zenodo** archival release alongside the GIQ manuscript.
+The artifact is designed for reproducible documentary coding, pattern-oriented reporting, and **Zenodo** archival release alongside the GIQ manuscript.
+
+## Manuscript contribution hierarchy (aligned)
+
+| Level | Claim |
+|-------|-------|
+| **Primary** | Municipal AI public documentation is commitment-heavy and artefact-thin |
+| **Secondary** | Genre inversion: registers and portals thinner than strategies and frameworks |
+| **Supporting** | Open coding materials for bounded replication |
+| **Robustness evidence** | Retrieved-only sensitivity; IRR (40 cells, κ = 0.81) |
+
+Public-Document Observability (PDO) is an **operational lens** for coding, not a standalone theoretical contribution.
 
 ## Research questions
 
@@ -34,7 +45,8 @@ This project is **Public-Document Observability** analysis. Canonical non-claims
 | Public municipal AI governance documents | Non-public or access-restricted records |
 | Five observability dimensions (D1–D5) | Readiness scoring |
 | Four evidence-status labels | Municipal ranking |
-| Descriptive evidence gap patterns | LocalGovBench validation |
+| Pattern-oriented evidence-gap analysis | LocalGovBench validation |
+| Retrieved-only sensitivity + IRR materials | Legal compliance determination |
 | Zenodo-ready protocol and templates | Legal compliance determination |
 | | Personal data processing |
 | | Model performance evaluation |
@@ -65,6 +77,8 @@ municipal-ai-evidence-gaps/
 │       ├── corpus_manifest_v0_1.csv      # Initial corpus manifest (v0.1)
 │       ├── corpus_manifest_quality_flags_v0_1.csv  # Pre-coding quality flags
 │       ├── coding_results_v0_1_1.csv       # Full-corpus D1–D5 coding (v0.1.1)
+│       ├── irr_coding_worksheet_v1.csv     # IRR subsample (40 cells)
+│       ├── irr_merged_v1.csv               # Merged independent coder labels
 │       ├── tier_a_verification.csv       # Tier A screening results
 │       ├── coding_template.csv           # Coding schema (v0.1)
 │       ├── corpus_manifest.csv           # Working manifest (gitignored)
@@ -81,6 +95,8 @@ municipal-ai-evidence-gaps/
 │   ├── sampling_risks.md                 # Bias register and mitigations
 │   ├── global_editorial_style_guide.md   # Canonical terminology and non-claims
 │   ├── editorial_consistency_audit.md    # Consistency audit log
+│   ├── irr_study_design_v1.md            # IRR subsample design
+│   ├── irr_second_coder_protocol_v1.md   # Second-coder protocol
 │   ├── coding_protocol.md                # D1–D5 coding sheets (v0.1.1)
 │   ├── coding_decision_rules_v0_1_1.md   # Decision trees and tie-breaks
 │   ├── non_claims.md                     # Boundary register
@@ -91,7 +107,9 @@ municipal-ai-evidence-gaps/
 │   ├── collect_sources.py
 │   ├── build_corpus_index.py
 │   ├── code_observability.py
-│   └── export_tables.py
+│   ├── export_tables.py
+│   ├── sensitivity_analysis.py           # Retrieved-only robustness
+│   └── irr_compute_agreement.py          # IRR agreement statistics
 ├── src/evidence_gaps/                    # Schema and analysis package
 ├── notebooks/
 ├── outputs/                              # Generated tables and reports
@@ -135,9 +153,20 @@ pip install -e .
 1. `scripts/collect_sources.py` — initialise corpus manifest scaffold
 2. `scripts/build_corpus_index.py` — normalise manifest entries
 3. `scripts/code_observability.py` — apply D1–D5 coding protocol
-4. `scripts/export_tables.py` — export descriptive summary tables
+4. `scripts/export_tables.py` — export summary tables from freeze
+5. `scripts/sensitivity_analysis.py` — retrieved-only robustness analysis
+6. `scripts/irr_compute_agreement.py` — IRR agreement on 40-cell subsample
 
 Templates: copy `data/processed/*_template.csv` when starting a new coding tranche.
+
+### Reproduce robustness and IRR
+
+```bash
+python3 scripts/sensitivity_analysis.py
+python3 scripts/irr_compute_agreement.py --worksheet data/processed/irr_coding_worksheet_v1.csv
+```
+
+Reports: `outputs/reports/robustness_sensitivity_v1.md`, `outputs/reports/irr_results_v1.md`.
 
 ## Planned v0.1 release contents
 
@@ -157,20 +186,23 @@ Zenodo tag **`v0.1.0`** will include:
 
 | Version | Contents | DOI |
 |---------|----------|-----|
-| `v1.0.1` | Full analysis corpus, protocol v0.1.1, frozen results, reproducibility materials | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
+| `v1.0.2` | Full corpus, protocol v0.1.1, frozen results, sensitivity + IRR materials, replication scripts | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
+| `v1.0.1` | Full analysis corpus, protocol v0.1.1, frozen results (superseded by v1.0.2) | [10.5281/zenodo.20603415](https://doi.org/10.5281/zenodo.20603415) |
 
 Earlier development milestones (`v0.1.0`, `v0.2.0`) preceded the manuscript-linked release.
+
+See [`RELEASE_NOTES_v1.0.2.md`](RELEASE_NOTES_v1.0.2.md) for v1.0.2 additions.
 
 ## Citation
 
 ```bibtex
-@software{municipal_ai_evidence_gaps_v101,
+@software{municipal_ai_evidence_gaps_v102,
   title  = {Municipal AI Evidence Gaps: Public Documentation Corpus and Analysis Artifact},
   author = {Andr{\'e}s, C{\'e}sar},
   year   = {2026},
-  version = {1.0.1},
+  version = {1.0.2},
   doi    = {10.5281/zenodo.20603415},
-  url    = {https://github.com/cesar-andress/municipal-ai-evidence-gaps/tree/v1.0.1}
+  url    = {https://github.com/cesar-andress/municipal-ai-evidence-gaps/tree/v1.0.2}
 }
 ```
 
@@ -195,9 +227,10 @@ See also [`CITATION.cff`](CITATION.cff).
 | Full corpus coding | **Complete** (v0.1.1; 115 rows; 23 sources) |
 | RQ analysis | **Complete** (RQ1–RQ3 descriptive analysis; candidate claims inventoried) |
 | Results consistency audit | **Complete** (CSV-validated freeze issued) |
-| Manuscript results | **Not written** (analysis artefacts only) |
+| Robustness + IRR | **Complete** (retrieved-only sensitivity; 40-cell IRR, κ = 0.81) |
+| Manuscript | **Submitted** (GIQ; companion artifact v1.0.2) |
 
-The initial corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. Full-corpus D1–D5 coding (v0.1.1) produced **115 coded observations** in [`data/processed/coding_results_v0_1_1.csv`](data/processed/coding_results_v0_1_1.csv). No paper findings or pattern analysis are included.
+The corpus manifest registers **23 official municipal source URLs** across six Tier A–verified municipalities. Full-corpus D1–D5 coding (v0.1.1) produced **115 coded observations** in [`data/processed/coding_results_v0_1_1.csv`](data/processed/coding_results_v0_1_1.csv). Frozen numerals for the manuscript are in [`outputs/reports/results_freeze_v1.md`](outputs/reports/results_freeze_v1.md).
 
 **Sampling strategy status:** complete  
 **Tier A verification status:** complete — screening only; see [`outputs/reports/tier_a_verification_report.md`](outputs/reports/tier_a_verification_report.md)  
@@ -212,7 +245,7 @@ The initial corpus manifest registers **23 official municipal source URLs** acro
 
 ## Status
 
-**v0.1 research design through validated results freeze complete.** RQ analysis and consistency audit produced frozen numerals (`results_freeze_v1.md`) for manuscript use. Manuscript text not written.
+**Results freeze and robustness/IRR complete.** Manuscript-linked release **v1.0.2** includes sensitivity and IRR replication materials alongside frozen numerals (`results_freeze_v1.md`).
 
 ## License
 

@@ -18,7 +18,7 @@ Always use these terms (British **programme** spelling):
 |----------------|---------|-------|
 | **municipal AI programme** | Municipal systems, vendors, workflows, and governance arrangements | Context only; not directly observed |
 | **Programme-Level Governance Readiness** | Whether documented structures would allow external programme-level assessment | **Not measured** by this study |
-| **Public-Document Observability** | Degree to which governance evidence is identifiable in **public documentation** | Hyphenate when naming the construct |
+| **Public-Document Observability** | Degree to which governance evidence is identifiable in **public documentation** | Manuscript: **operational lens** for coding; not a standalone theoretical contribution |
 | **evidence gap** | Thin, partial, or absent programme-level evidence in public documentation | Plural: evidence gaps |
 | **observable evidence** | Locatable governance information in public documentation | Not a readiness proxy |
 | **accountability limitation** | Constraint on external oversight via the public record | Plural: accountability limitations |
@@ -79,7 +79,7 @@ May elaborate but must not contradict the five canonical items. See [`non_claims
 | Government Information Quarterly | Full journal name; abbreviate **GIQ** after first use |
 | LocalGovBench | CamelCase |
 | Programme-Level Governance Readiness | Title case when naming the concept |
-| Public-Document Observability | Title case when naming the construct |
+| Public-Document Observability | Title case when naming the lens or protocol |
 | municipal AI programme | Lower case (common noun) |
 | evidence gap / observable evidence / accountability limitation | Lower case |
 | public documentation | Lower case |

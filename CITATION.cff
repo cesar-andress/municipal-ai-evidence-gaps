@@ -10,8 +10,8 @@ authors:
 repository-code: "https://github.com/cesar-andress/municipal-ai-evidence-gaps"
 url: "https://github.com/cesar-andress/municipal-ai-evidence-gaps"
 license: CC-BY-4.0
-version: 1.0.1
-date-released: 2026-06-08
+version: 1.0.2
+date-released: 2026-06-15
 doi: 10.5281/zenodo.20603415
 keywords:
   - municipal AI governance
@@ -29,4 +29,4 @@ preferred-citation:
       given-names: "César"
   journal: "Government Information Quarterly"
   year: 2026
-  notes: "Manuscript submitted; companion artifact at https://doi.org/10.5281/zenodo.20603415 (v1.0.1)."
+  notes: "Manuscript submitted; companion artifact at https://doi.org/10.5281/zenodo.20603415 (v1.0.2)."

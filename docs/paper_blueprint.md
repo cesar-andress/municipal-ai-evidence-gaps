@@ -71,7 +71,7 @@ Establish stakes, define the puzzle, state RQs and contributions, and orient the
   - **RQ1.** What governance evidence is publicly observable in municipal AI documentation?
   - **RQ2.** Which governance dimensions are systematically under-observable?
   - **RQ3.** What patterns of transparency and evidence gaps emerge across municipalities and document types?
-- Three contributions (Public-Document Observability concept; evidence gap analysis; open protocol)
+- Three contributions (commitment-heavy/artefact-thin profile; genre inversion; open coding materials)
 - Roadmap paragraph
 - Boundary statement: observability analysis, public documents only
 
@@ -142,7 +142,7 @@ Introduce **public-document observability** and the evidence-gap construct; pres
 - Coding label definitions aligned with [`coding_protocol.md`](coding_protocol.md)
 
 #### Claims allowed
-- Observability is a distinct analytic construct for government information research
+- Public-Document Observability is an operational lens for uniform documentary coding
 - Evidence gaps create accountability limitations **for external reviewers using public documents**
 - Commitment-heavy, evidence-light documentation is a plausible pattern to investigate
 

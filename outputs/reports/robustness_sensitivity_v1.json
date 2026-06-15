@@ -1,0 +1,97 @@
+{
+  "full_corpus": {
+    "n": 115,
+    "not_observable": 50,
+    "not_observable_pct": 43.5,
+    "policy_commitment": 37,
+    "policy_commitment_pct": 32.2,
+    "partial_signal": 25,
+    "partial_signal_pct": 21.7,
+    "named_artifact": 3,
+    "named_artifact_pct": 2.6,
+    "observable": 65,
+    "observable_pct": 56.5,
+    "commit_share_of_observable_pct": 56.9,
+    "named_share_of_observable_pct": 4.6
+  },
+  "retrieved_only_corpus": {
+    "n": 95,
+    "not_observable": 30,
+    "not_observable_pct": 31.6,
+    "policy_commitment": 37,
+    "policy_commitment_pct": 38.9,
+    "partial_signal": 25,
+    "partial_signal_pct": 26.3,
+    "named_artifact": 3,
+    "named_artifact_pct": 3.2,
+    "observable": 65,
+    "observable_pct": 68.4,
+    "commit_share_of_observable_pct": 56.9,
+    "named_share_of_observable_pct": 4.6
+  },
+  "patterns": {
+    "P1_commitment_heavy_artefact_thin": {
+      "full": {
+        "observable": 65,
+        "named_artifact": 3,
+        "named_artifact_pct": 2.6,
+        "commit_share_of_observable_pct": 56.9
+      },
+      "retrieved_only": {
+        "observable": 65,
+        "named_artifact": 3,
+        "named_artifact_pct": 3.2,
+        "commit_share_of_observable_pct": 56.9
+      },
+      "absolute_counts_stable": true
+    },
+    "P2_downstream_concentration": {
+      "full_weakest_dims_by_observable_pct": [
+        21.7,
+        43.5
+      ],
+      "ok_weakest_dims_by_observable_pct": [
+        26.3,
+        52.6
+      ],
+      "full_highest_not_obs_dims": [
+        78.3,
+        56.5
+      ],
+      "ok_highest_not_obs_dims": [
+        73.7,
+        47.4
+      ],
+      "D4_systematic_under_observable_full": true,
+      "D4_systematic_under_observable_ok": true,
+      "D5_systematic_under_observable_full": true,
+      "D5_systematic_under_observable_ok": false
+    },
+    "P3_genre_inversion": {
+      "full_strategies_frameworks_observable_pct": 67.3,
+      "full_registers_portals_observable_pct": 42.9,
+      "ok_strategies_frameworks_observable_pct": 74.0,
+      "ok_registers_portals_observable_pct": 60.0,
+      "inversion_holds_full": true,
+      "inversion_holds_ok": true
+    }
+  },
+  "source_type_rank_full": [
+    "AI strategy",
+    "committee record",
+    "governance framework",
+    "algorithm register",
+    "AI policy",
+    "transparency portal"
+  ],
+  "source_type_rank_ok": [
+    "AI strategy",
+    "governance framework",
+    "committee record",
+    "transparency portal",
+    "AI policy",
+    "algorithm register"
+  ],
+  "source_type_rank_unchanged": false,
+  "bot_gated_rows_all_not_observable": true
+}

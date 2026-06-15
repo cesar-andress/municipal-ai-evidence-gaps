@@ -1,0 +1,17 @@
+{
+  "n_documents": 8,
+  "n_cells": 40,
+  "percent_agreement": 87.5,
+  "cohens_kappa": 0.81,
+  "pattern_checks": {
+    "p1_named_share_of_observable_pct": 3.2,
+    "p1_commitment_heavy_artefact_thin": true,
+    "p2_top_not_obs_dims": [
+      "D4",
+      "D5"
+    ],
+    "p3_sf_observable_pct": 93.3,
+    "p3_rp_observable_pct": 66.7,
+    "p3_inversion_holds": true
+  }
+}

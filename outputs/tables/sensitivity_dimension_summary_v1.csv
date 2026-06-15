@@ -1,0 +1,11 @@
+corpus,dimension,n,observable,observable_pct,not_observable,not_observable_pct,systematically_under_observable
+full,D1,23,17,73.9,6,26.1,False
+retrieved_only,D1,19,17,89.5,2,10.5,False
+full,D2,23,18,78.3,5,21.7,False
+retrieved_only,D2,19,18,94.7,1,5.3,False
+full,D3,23,15,65.2,8,34.8,False
+retrieved_only,D3,19,15,78.9,4,21.1,False
+full,D4,23,5,21.7,18,78.3,True
+retrieved_only,D4,19,5,26.3,14,73.7,True
+full,D5,23,10,43.5,13,56.5,True
+retrieved_only,D5,19,10,52.6,9,47.4,False

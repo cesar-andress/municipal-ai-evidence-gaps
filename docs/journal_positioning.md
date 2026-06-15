@@ -121,7 +121,7 @@ This document assesses fit against four public-administration and digital-govern
 
 ## 5. Positioning statement for cover letter (draft)
 
-> This manuscript contributes to Government Information Quarterly's scholarship on public-sector information and algorithmic governance by introducing public-document observability as an analytic construct and providing comparative evidence on where municipal AI documentation supplies programme-level governance evidence—and where systematic gaps limit external assessment. The study advances government information research without scoring municipal readiness, ranking cities, or claiming legal compliance.
+> This manuscript contributes to Government Information Quarterly's scholarship on public-sector information and algorithmic governance by reporting a commitment-heavy, artefact-thin evidence-gap profile in municipal AI public documentation, documenting genre inversion between purpose-built transparency instruments and normative strategies or frameworks, and releasing open coding materials for bounded replication. Public-Document Observability is applied as an operational lens, not as a standalone theoretical contribution. The study advances government information research without scoring municipal readiness, ranking cities, or claiming legal compliance.
 
 ---
 

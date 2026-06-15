@@ -1,0 +1,13 @@
+corpus,source_type,n,observable,observable_pct,not_observable,not_observable_pct
+full,AI policy,15,6,40.0,9,60.0
+retrieved_only,AI policy,10,6,60.0,4,40.0
+full,AI strategy,25,19,76.0,6,24.0
+retrieved_only,AI strategy,25,19,76.0,6,24.0
+full,algorithm register,15,8,53.3,7,46.7
+retrieved_only,algorithm register,15,8,53.3,7,46.7
+full,committee record,10,7,70.0,3,30.0
+retrieved_only,committee record,10,7,70.0,3,30.0
+full,governance framework,30,18,60.0,12,40.0
+retrieved_only,governance framework,25,18,72.0,7,28.0
+full,transparency portal,20,7,35.0,13,65.0
+retrieved_only,transparency portal,10,7,70.0,3,30.0

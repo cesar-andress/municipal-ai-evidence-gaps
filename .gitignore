@@ -26,6 +26,8 @@ data/processed/*
 !data/processed/coding_results_v0_1_1.csv
 !data/processed/coding_results_v0_1_1_sensitivity_ok_only.csv
 !data/processed/corpus_manifest_v0_1_sensitivity_ok_only.csv
+!data/processed/irr_coding_worksheet_v1.csv
+!data/processed/irr_merged_v1.csv
 data/external/*
 !data/external/.gitkeep
 
@@ -53,6 +55,18 @@ outputs/reports/*
 !outputs/reports/results_consistency_audit.md
 !outputs/reports/results_freeze_v1.md
 !outputs/reports/bot_gated_sensitivity_check_v0_1.md
+!outputs/reports/robustness_sensitivity_v1.md
+!outputs/reports/robustness_sensitivity_v1.json
+!outputs/reports/irr_results_v1.md
+!outputs/reports/irr_results_v1.json
+!outputs/reports/irr_analysis_workflow_v1.md
+!outputs/reports/irr_reconciliation_log_v1.md
+!outputs/tables/sensitivity_corpus_summary_v1.csv
+!outputs/tables/sensitivity_dimension_summary_v1.csv
+!outputs/tables/sensitivity_genre_groups_v1.csv
+!outputs/tables/sensitivity_pattern_comparison_v1.csv
+!outputs/tables/sensitivity_source_type_summary_v1.csv
+!outputs/tables/irr_agreement_summary_v1.csv
 
 # OS and editors
 .DS_Store

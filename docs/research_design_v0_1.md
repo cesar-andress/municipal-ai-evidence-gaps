@@ -12,7 +12,7 @@
 
 ## 1. Research objective
 
-To develop and apply a **public-document observability framework** for municipal AI governance, examining what programme-level evidence European municipalities make visible in official documentation and where systematic evidence gaps limit independent external assessment.
+To develop and apply a **comparative public-document observability analysis** for municipal AI governance, examining what programme-level evidence European municipalities make visible in official documentation and where systematic evidence gaps limit independent external assessment.
 
 The study tests the working proposition that municipal AI documentation is frequently **transparent at the level of principles and commitments** but comparatively **thin at the level of evidence required for programme-level governance assessment**—ownership, oversight routines, data and log governance, vendor stewardship, and lifecycle accountability.
 
@@ -54,7 +54,7 @@ Municipal AI governance sits at the intersection of digital government, algorith
 
 **Administrative burden and ceremonial compliance.** Public organisations face competing demands: publish quickly to signal responsiveness, while building the documentation infrastructure that sustained governance requires (Moynihan et al., 2018; Peeters & Schuilenburg, 2023). The result may be **ceremonial compliance**: publicly acceptable governance forms that outpace the evidentiary substance needed for independent evaluation.
 
-This study contributes by treating **public-document observability** as a distinct analytic construct—what governance evidence is structurally available to outsiders—rather than inferring internal quality from publication presence alone.
+This study contributes by treating **public-document observability** as an **operational lens** for documentary coding---what governance evidence is structurally available to outsiders---rather than inferring internal quality from publication presence alone.
 
 ---
 
@@ -163,17 +163,21 @@ The research design records gaps descriptively and discusses burden as a **plaus
 
 ## 11. Expected contributions
 
-### Contribution 1 — Public-document observability as a governance concept
+### Contribution 1 — Commitment-heavy, artefact-thin evidence-gap profile (primary)
 
-The study introduces and operationalises **public-document observability** as an analytic construct for digital government research, distinguishing visibility of commitments from availability of programme-level evidence.
+The study provides a reproducible empirical profile showing that municipal AI public documentation is commitment-heavy and artefact-thin across five governance dimensions coded uniformly across document types within matched municipal corpora.
 
-### Contribution 2 — Evidence gap analysis for municipal AI governance
+### Contribution 2 — Genre inversion across document types (secondary)
 
-The study provides a comparative empirical account of **where** evidence gaps concentrate across governance dimensions and document types, advancing municipal AI governance scholarship beyond presence/absence of strategies or registers.
+The study documents genre inversion: purpose-built transparency instruments (algorithm registers and transparency portals) yield thinner verifiable governance evidence than AI strategies and governance frameworks within the same municipal corpora.
 
-### Contribution 3 — Reusable coding protocol and open corpus infrastructure
+### Contribution 3 — Open coding materials (supporting)
 
-The study releases a documented coding protocol (D1–D5), schema, templates, and open analysis infrastructure designed for replication, extension, and Zenodo archival—without readiness scoring or municipal ranking.
+The study releases a documented coding protocol (D1–D5), schema, templates, and open analysis infrastructure designed for bounded replication and Zenodo archival—without readiness scoring or municipal ranking.
+
+### Robustness evidence (not a separate contribution claim)
+
+Retrieved-only sensitivity analysis and stratified inter-rater reliability (40 cells; κ = 0.81) support the principal patterns without altering frozen full-corpus numerals.
 
 ---
 
@@ -183,10 +187,11 @@ The study releases a documented coding protocol (D1–D5), schema, templates, an
 |-------|----------|---------------|
 | Design | Research design, conceptual model, journal positioning | Complete |
 | Protocol | Study protocol, coding protocol, non-claims | Complete |
-| Collection | Public document manifest assembly | Not started |
-| Coding | D1–D5 observability coding | Not started |
-| Analysis | Descriptive pattern summaries | Not started |
-| Release | Zenodo v0.2+ with corpus | Planned |
+| Collection | Public document manifest assembly | Complete |
+| Coding | D1–D5 observability coding | Complete |
+| Analysis | Pattern-oriented summaries | Complete |
+| Robustness | Retrieved-only sensitivity + IRR subsample | Complete |
+| Release | Zenodo v1.0.2 with corpus + robustness/IRR | Complete |
 
 Operational details: [`study_protocol_v0_1.md`](study_protocol_v0_1.md).
 

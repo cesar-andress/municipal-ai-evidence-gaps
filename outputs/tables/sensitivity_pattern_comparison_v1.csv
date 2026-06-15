@@ -1,0 +1,5 @@
+pattern,full_value,retrieved_only_value,stable
+P1 commitment-heavy / artefact-thin,3/115 named (2.6%); 65 observable,3/95 named (3.2%); 65 observable,True
+P2 downstream concentration (D4 weakest),D4 78.3% not obs,D4 73.7% not obs,True
+P2 D5 >50% systematic threshold,D5 56.5% not obs,D5 47.4% not obs,False
+P3 genre inversion (strategies+frameworks vs registers+portals),67.3% vs 42.9% observable,74.0% vs 60.0% observable,True

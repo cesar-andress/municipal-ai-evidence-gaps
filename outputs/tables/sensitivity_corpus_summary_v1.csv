@@ -1,0 +1,3 @@
+corpus,n,not_observable,not_observable_pct,policy_commitment,policy_commitment_pct,partial_signal,partial_signal_pct,named_artifact,named_artifact_pct,observable,observable_pct,commit_share_of_observable_pct,named_share_of_observable_pct
+full,115,50,43.5,37,32.2,25,21.7,3,2.6,65,56.5,56.9,4.6
+retrieved_only,95,30,31.6,37,38.9,25,26.3,3,3.2,65,68.4,56.9,4.6

@@ -1,5 +1,7 @@
 # Bot-gated sensitivity check v0.1
 
+> **Superseded for manuscript use by** [`robustness_sensitivity_v1.md`](robustness_sensitivity_v1.md) (2026-06-15), which adds P1–P3 pattern framing, genre-group tests, CSV exports, and manuscript insertion text. Numerals below remain valid.
+
 **Check date:** 2026-06-08  
 **Type:** Robustness / sensitivity analysis — **does not replace frozen main results**  
 **Protocol:** v0.1.1 (unchanged)  
